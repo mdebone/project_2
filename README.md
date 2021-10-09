@@ -7,3 +7,5 @@ Added to Resources folder and created sub folders 'Hulu and Netflix.' Added csv 
 =======
 Added to Resources folder and created sub folders 'Hulu and Netflix.' Added csv files we retrieved from Kaggle. 
 >>>>>>> 247fe3b2df4fcbbe96ad0972aec23e318290b67f
+
+Added two work in progress web scrapping files for imdb and rotten tomatoes, metacrtitic seems like the easiest some have been saving for last. The function like the splinter activaties done in lesson 2.
