@@ -1,0 +1,10 @@
+﻿SVoD service multiple subscriptions in the U.S. 2020,,,,,,,,
+"Share of subscription video on demand (SVoD) subscribers who also subscribe to other services in the United States as of December 2020, by service",,,,,,,,
+,also subscribe to Netflix,also subscribe to Peacock Premium,also subscribe to HBO Max,also subscribe to Amazon Prime Video,also subscribe to Disney+,also subscribe to Hulu,also subscribe to Apple TV+,
+Netflix,0,6,20,63,50,50,25,in %
+Peacock Premium,90,0,80,94,86,88,72,in %
+HBO Max,90,22,0,89,79,83,56,in %
+Amazon Prime Video,84,8,27,0,61,62,34,in %
+Disney+,87,10,31,82.48,0,70,39,in %
+Hulu,85,10,32,79,68,0,38,in %
+Apple TV+,92,17,46,91,81,79,0,in %
