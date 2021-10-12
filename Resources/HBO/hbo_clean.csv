@@ -1,0 +1,60 @@
+Genres,HBO,IMDb,Rotten Tomatoes,Title,Year,_id
+,true,9.4,96,Chernobyl,2019,616528948a2fde8299a2cfbe
+,true,8.1,95,Watchmen,2019,616528948a2fde8299a2cfd8
+,true,8.3,82,Euphoria,2019,616528948a2fde8299a2cfda
+,true,7.9,82,The Outsider,2020,616528948a2fde8299a2cfe0
+,true,8,95,Doom Patrol,2019,616528948a2fde8299a2cfe2
+,true,7.9,80,His Dark Materials,2019,616528948a2fde8299a2cfe5
+,true,8.4,89,Years and Years,2019,616528948a2fde8299a2cfea
+,true,8.7,100,Primal,2019,616528948a2fde8299a2cff4
+,true,8.2,73,I Know This Much Is True,2020,616528948a2fde8299a2cff7
+,true,8.2,90,Gentleman Jack,2019,616528948a2fde8299a2d001
+,true,8.1,75,The Righteous Gemstones,2019,616528948a2fde8299a2d002
+,true,7.3,86,The Plot Against America,2020,616528948a2fde8299a2d009
+,true,7.1,92,Legendary,2020,616528948a2fde8299a2d012
+,true,7.2,88,McMillion$,2020,616528948a2fde8299a2d013
+,true,8,100,"We're Here",2020,616528948a2fde8299a2d014
+,true,7.2,80,Perry Mason,2020,616528948a2fde8299a2d015
+,true,7.4,59,Love Life,2020,616528948a2fde8299a2d016
+,true,7,84,Mrs. Fletcher,2019,616528948a2fde8299a2d01b
+,true,6.3,82,RUN,2020,616528948a2fde8299a2d01e
+,true,8.2,90,The New Pope,2020,616528948a2fde8299a2d01f
+,true,6.4,66,Avenue 5,2020,616528948a2fde8299a2d021
+,true,8.3,88,Looney Tunes Cartoons,2020,616528948a2fde8299a2d022
+,true,7.4,93,Our Boys,2019,616528948a2fde8299a2d027
+,true,3.6,79,Batwoman,2019,616528948a2fde8299a2d02b
+,true,7.2,94,"Atlanta's Missing and Murdered: The Lost Children",2020,616528948a2fde8299a2d02d
+,true,6,53,Nancy Drew,2019,616528948a2fde8299a2d030
+,true,7.5,100,Los Espookys,2019,616528948a2fde8299a2d031
+,true,7.8,100,Ghosts,2019,616528948a2fde8299a2d032
+,true,6.3,96,Betty,2020,616528948a2fde8299a2d035
+,true,7.8,80,The Not Too Late Show with Elmo,2020,616528948a2fde8299a2d03b
+,true,7.1,100,A Black Lady Sketch Show,2019,616528948a2fde8299a2d03e
+,true,7.8,67,The Movies,2019,616528948a2fde8299a2d043
+,true,6.6,82,The Case Against Adnan Syed,2019,616528948a2fde8299a2d045
+,true,6.1,90,Katy Keene,2020,616528948a2fde8299a2d04a
+,true,6.2,,Hard,2020,616528948a2fde8299a2d05a
+,true,8.2,,Keep Your Hands Off Eizouken!,2020,616528948a2fde8299a2d064
+,true,6.6,80,Trigonometry,2020,616528948a2fde8299a2d06a
+,true,6.7,,In/Spectre,2020,616528948a2fde8299a2d06b
+,true,6,83,Craftopia,2020,616528948a2fde8299a2d06c
+,true,7.3,,El Pionero,2019,616528948a2fde8299a2d074
+,true,6,,Todxs Nos,2020,616528948a2fde8299a2d07b
+,true,7.2,,Food Lore,2019,616528948a2fde8299a2d07d
+,true,7.9,,Home,2019,616528948a2fde8299a2d07e
+,true,7.2,,Santos Dumont,2019,616528948a2fde8299a2d080
+,true,6.2,,Victor and Valentino,2019,616528948a2fde8299a2d083
+,true,7.1,,"On Tour with Asperger's Are Us",2019,616528948a2fde8299a2d09e
+,true,7.6,,24/7 College Football,2019,616528948a2fde8299a2d0a2
+"Action, Adventure, Crime, Drama, Fantasy, Sci-Fi",true,7.2,,Stargirl,2020,616529b68a2fde8299a2d0e6
+"Comedy, Drama, Mystery, Thriller",true,7.1,,The Flight Attendant,2020,616529b68a2fde8299a2d106
+"Action, Adventure, Drama, Sci-Fi",true,7.5,,Star Trek: Picard,2020,616529b68a2fde8299a2d113
+"Drama, Fantasy, Sci-Fi, Thriller",true,7.5,,Raised by Wolves,2020,616529b68a2fde8299a2d11a
+"Crime, Drama, Mystery, Thriller",true,7.4,,The Undoing,2020,616529b68a2fde8299a2d120
+"Drama, Thriller",true,7.1,,Shadowplay,2020,616529b68a2fde8299a2d126
+"Action, Drama, Sci-Fi, Thriller",true,6.9,,Snowpiercer,2020,616529b68a2fde8299a2d127
+"Action, Drama, Mystery, Sci-Fi",true,8.2,,Watchmen,2019,616529b68a2fde8299a2d12f
+"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",true,7.1,,Lovecraft Country,2020,616529b68a2fde8299a2d132
+"Animation, Action, Adventure, Comedy, Crime, Fantasy, Mystery",true,8.5,,Harley Quinn,2019,616529b68a2fde8299a2d133
+"Crime, Drama, Fantasy, Mystery, Thriller",true,7.7,,The Outsider,2020,616529b68a2fde8299a2d13c
+Drama,true,8.1,,I May Destroy You,2020,616529b68a2fde8299a2d14c
