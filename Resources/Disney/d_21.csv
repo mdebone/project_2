@@ -1,29 +1,27 @@
-Disney+,Genres,IMDb,Rotten Tomatoes,Title,Year
-true,"Animation,Adventure,Comedy,Family,Fantasy",7.5,82,Luca,2021
-true,"Animation,Action,Adventure,Comedy,Family,Fantasy",7.4,81,Raya and the Last Dragon,2021
-true,"Animation,Short,Adventure,Comedy,Family,Fantasy",6.5,64,22 vs. Earth,2021
-true,"Animation,Short,Action,Comedy,Family",6.1,64,"The Simpsons: The Good, the Bart, and the Loki",2021
-true,"Animation,Short,Drama,Family,Musical",7.9,64,Us Again,2021
-true,"Adventure,Comedy,Family",6.3,62,Flora & Ulysses,2021
-true,"Animation,Action,Adventure,Family,Fantasy,Romance",7.6,62,Miraculous World: Shanghai – The Legend of Ladydragon,2021
-true,"Animation,Short,Comedy,Family,Sci-Fi",6.2,61,Maggie Simpson in The Force Awakens from Its Nap,2021
-true,Documentary,7.1,56,Stuntman,2021
-true,"Short,Drama",7.5,56,The Little Prince(ss),2021
-true,"Documentary,Biography",7,54,Wolfgang,2021
-true,"Short,Sci-Fi",6.7,54,Star Wars Biomes,2021
-true,Documentary,6.8,53,Shark Beach with Chris Hemsworth,2021
-true,"Documentary,Adventure",7.8,53,Playing with Sharks: The Valerie Taylor Story,2021
-true,Documentary,6.4,53,"Marvel's Behind the Mask",2021
-true,"Short,Drama",7.4,52,American Eid,2021
-true,"Short,Drama",7.2,51,"Let's Be Tigers",2021
-true,Short,6.5,49,Growing Fangs,2021
-true,Documentary,5.6,49,Orca Vs Great White,2021
-true,"Short,Drama",6.4,48,The Last of the Chupacabras,2021
-true,"Short,Horror",6.1,48,Dinner Is Served,2021
-true,Documentary,7.2,47,Rogue Shark?,2021
-true,Documentary,6.4,46,Own the Room,2021
-true,Documentary,,45,"World's Biggest Bull Shark?",2021
-true,Documentary,6.8,45,Shark Gangs,2021
-true,"Documentary,Music",7.3,33,My Music Story: Yoshiki,2021
-true,"Documentary,Music",,16,Disney My Music Story: Sukima Switch,2021
-true,,,14,Built for Mars: The Perseverance Rover,2021
+Genres,IMDb,Rotten Tomatoes,Title
+"Animation,Adventure,Comedy,Family,Fantasy",7.5,82,Luca
+"Animation,Action,Adventure,Comedy,Family,Fantasy",7.4,81,Raya and the Last Dragon
+"Animation,Short,Adventure,Comedy,Family,Fantasy",6.5,64,22 vs. Earth
+"Animation,Short,Action,Comedy,Family",6.1,64,"The Simpsons: The Good, the Bart, and the Loki"
+"Animation,Short,Drama,Family,Musical",7.9,64,Us Again
+"Adventure,Comedy,Family",6.3,62,Flora & Ulysses
+"Animation,Action,Adventure,Family,Fantasy,Romance",7.6,62,Miraculous World: Shanghai – The Legend of Ladydragon
+"Animation,Short,Comedy,Family,Sci-Fi",6.2,61,Maggie Simpson in The Force Awakens from Its Nap
+Documentary,7.1,56,Stuntman
+"Short,Drama",7.5,56,The Little Prince(ss)
+"Documentary,Biography",7,54,Wolfgang
+"Short,Sci-Fi",6.7,54,Star Wars Biomes
+Documentary,6.8,53,Shark Beach with Chris Hemsworth
+"Documentary,Adventure",7.8,53,Playing with Sharks: The Valerie Taylor Story
+Documentary,6.4,53,"Marvel's Behind the Mask"
+"Short,Drama",7.4,52,American Eid
+"Short,Drama",7.2,51,"Let's Be Tigers"
+Short,6.5,49,Growing Fangs
+Documentary,5.6,49,Orca Vs Great White
+"Short,Drama",6.4,48,The Last of the Chupacabras
+"Short,Horror",6.1,48,Dinner Is Served
+Documentary,7.2,47,Rogue Shark?
+Documentary,6.4,46,Own the Room
+Documentary,6.8,45,Shark Gangs
+"Documentary,Music",7.3,33,My Music Story: Yoshiki
+"Adventure, Drama, Thriller",7.1,82,Monsters at Work

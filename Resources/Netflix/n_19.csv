@@ -1,577 +1,547 @@
-Genres,IMDb,Netflix,Rotten Tomatoes,Title,Year
-"Biography,Crime,Drama",7.8,true,98,The Irishman,2019
-"Crime,Drama,Mystery,Thriller",8.2,true,92,Article 15,2019
-"Biography,Comedy,Drama",7.3,true,92,Dolemite Is My Name,2019
-"Documentary,Crime,Music",7.2,true,91,Fyre,2019
-"Biography,Drama,History,Romance,War",7.2,true,90,The King,2019
-"Drama,Mystery,Sci-Fi,Thriller",6.7,true,89,I Am Mother,2019
-"Drama,Thriller",7.6,true,89,Tell Me Who I Am,2019
-"Animation,Drama,Fantasy,Romance",7.6,true,89,I Lost My Body,2019
-"Biography,Drama,History",7.6,true,89,The Boy Who Harnessed the Wind,2019
-"Comedy,Romance",6.8,true,88,Always Be My Maybe,2019
-Comedy,8.2,true,87,Bill Burr: Paper Tiger,2019
-"Comedy,Crime,Drama,Thriller",8.4,true,87,Super Deluxe,2019
-Documentary,7.4,true,86,American Factory,2019
-"Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi",6.8,true,86,A Shaun the Sheep Movie: Farmageddon,2019
-"Animation,Action,Adventure,Comedy,Family,Sci-Fi",7.5,true,86,Invader ZIM: Enter the Florpus,2019
-Comedy,8.5,true,84,Dave Chappelle: Sticks & Stones,2019
-"Comedy,Drama",7.2,true,84,Paddleton,2019
-"Documentary,History",7.2,true,83,The Edge of Democracy,2019
-"Comedy,Drama,Romance",7.9,true,83,Marriage Story,2019
-"Action,Drama,History,Thriller,War",7.2,true,82,The Endless Trench,2019
-"Documentary,Biography,History",7.1,true,81,Circus of Books,2019
-"Crime,Drama,Thriller",7.4,true,80,Uncut Gems,2019
-"Drama,Romance",7.6,true,80,The Sky Is Pink,2019
-"Crime,Drama,Mystery,Thriller",7.8,true,80,Badla,2019
-"Biography,Comedy,Drama,Music",7,true,79,The Dirt,2019
-"Drama,Mystery,Romance",6.7,true,79,Atlantics,2019
-Drama,7.3,true,79,37 Seconds,2019
-"Action,Crime,Drama",7.3,true,79,El Camino: A Breaking Bad Movie,2019
-"Drama,Horror,Thriller",5.6,true,79,Get In,2019
-"Documentary,Biography,Music",7.5,true,79,"ZZ Top: That Little Ol' Band From Texas",2019
-Comedy,7.7,true,78,Mike Birbiglia: The New One,2019
-"Animation,Adventure,Comedy,Family",8.2,true,78,Klaus,2019
-Biography,7.4,true,78,Miles Davis: Birth of the Cool,2019
-Documentary,7.1,true,78,Screwball,2019
-"Documentary,Crime",7.1,true,77,Roll Red Roll,2019
-Drama,8.2,true,77,Miracle in Cell No. 7,2019
-Documentary,7.3,true,77,Trixie Mattel: Moving Parts,2019
-Drama,7.1,true,77,Evelyn,2019
-"Crime,Mystery,Sci-Fi,Thriller",6.2,true,77,In the Shadow of the Moon,2019
-"Action,Comedy,Crime,Mystery,Romance",6,true,76,Murder Mystery,2019
-"Comedy,Drama",7.6,true,76,The Two Popes,2019
-"Action,Adventure,Sci-Fi,Thriller",6,true,76,The Wandering Earth,2019
-Thriller,6.6,true,76,Eye for an Eye,2019
-"Action,Thriller",6.1,true,75,6 Underground,2019
-"Action,Drama",7.3,true,75,Petta,2019
-"Documentary,Crime",6.7,true,75,"Bikram: Yogi, Guru, Predator",2019
-"Action,Thriller",6.4,true,75,Angel Has Fallen,2019
-"Drama,History,Thriller",6.6,true,75,The Red Sea Diving Resort,2019
-"Adventure,Comedy,Drama,Family,Romance,Sport",7.1,true,74,Game Over,2019
-"Biography,Crime,Drama,Thriller",6.7,true,74,"Extremely Wicked, Shockingly Evil and Vile",2019
-Comedy,6.1,true,74,Between Two Ferns: The Movie,2019
-"Crime,Drama",7.1,true,73,Soni,2019
-"Comedy,Romance",5.8,true,73,Let It Snow,2019
-Documentary,7.1,true,73,Knock Down the House,2019
-"Action,Crime,Drama,Thriller",6.3,true,73,Polar,2019
-"Biography,Crime,Drama,Mystery,Thriller",6.9,true,73,The Highwaymen,2019
-"Biography,Drama",7.3,true,73,The Professor and the Madman,2019
-"Mystery,Thriller",6.4,true,73,Fractured,2019
-"Comedy,Romance",5.8,true,72,The Perfect Date,2019
-"Action,Crime,Drama,Sci-Fi,Thriller",6.1,true,72,Code 8,2019
-"Action,Adventure,Crime,Thriller",6.4,true,72,Triple Frontier,2019
-"Drama,Mystery,Sci-Fi,Thriller",6.7,true,72,Freaks,2019
-"Drama,Romance",5.3,true,71,After,2019
-"Horror,Mystery,Thriller",5.7,true,71,Velvet Buzzsaw,2019
-"Comedy,Drama",7.2,true,71,"Live Twice, Love Once",2019
-"Action,Adventure,Drama,Fantasy",6.8,true,71,The Outpost,2019
-"Action,Drama,Romance",7.1,true,71,Kabir Singh,2019
-"Documentary,Music",7.5,true,71,Homecoming: A Film by Beyoncé,2019
-"Action,Biography,Drama,History",7,true,71,Ip Man 4: The Finale,2019
-"Comedy,Crime,Drama,History",6.3,true,71,The Laundromat,2019
-Documentary,7.9,true,70,The Game Changers,2019
-Comedy,7.2,true,70,Michelle Wolf: Joke Show,2019
-"Biography,Drama,History",7.2,true,70,The Best of Enemies,2019
-"Comedy,Romance",6.2,true,70,"Faith, Hope & Love",2019
-Documentary,7.2,true,70,Grass is Greener,2019
-Drama,7.8,true,70,System Crasher,2019
-"Comedy,Drama",5.6,true,70,An Easy Girl,2019
-Documentary,6.7,true,70,"There's Something in the Water",2019
-Comedy,5.9,true,69,"Frankenstein's Monster's Monster, Frankenstein",2019
-"Documentary,Biography,History",7,true,69,The Great Hack,2019
-"Crime,Drama,Horror,Thriller",6.3,true,69,The Forest of Love,2019
-Documentary,8,true,68,The Silence of Others,2019
-"Animation,Action,Adventure,Family,Fantasy,Thriller",7.5,true,68,Ne Zha,2019
-"Documentary,Biography,History,Music",7.6,true,68,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019
-"Comedy,Romance",6.2,true,68,Someone Great,2019
-"Animation,Adventure,Comedy,Family",6.4,true,67,The Angry Birds Movie 2,2019
-"Comedy,Drama,Romance",5.5,true,67,Ek Ladki Ko Dekha Toh Aisa Laga,2019
-"Action,Adventure,Sci-Fi,Thriller",6.9,true,67,"The Wolf's Call",2019
-"Comedy,Family,Musical",7.5,true,67,John Mulaney & The Sack Lunch Bunch,2019
-Drama,6.9,true,67,The Body Remembers When the World Broke Open,2019
-"Drama,Romance,Thriller",6.6,true,66,Ophelia,2019
-Comedy,6.5,true,66,Kevin Hart: Irresponsible,2019
-"Horror,Mystery,Sci-Fi,Thriller",5.4,true,66,In the Tall Grass,2019
-"Adventure,Comedy,Drama",7,true,66,Then Came You,2019
-"Comedy,Reality-TV",5.9,true,66,Jenny Slate: Stage Fright,2019
-"Drama,Sport",6.2,true,66,High Flying Bird,2019
-"Drama,Horror,Sci-Fi,Thriller",5.3,true,65,The Silence,2019
-"Short,Comedy,Music,Sport",6.9,true,65,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,2019
-"Action,Drama,Thriller",5.7,true,65,Close,2019
-"Comedy,Crime,Drama,Music",6.4,true,65,Beats,2019
-"Action,Adventure,Crime,Drama,Sci-Fi,Thriller",5.2,true,65,See You Yesterday,2019
-"Comedy,Drama",6.1,true,65,"Yes, God, Yes",2019
-Documentary,7.7,true,65,Last Breath,2019
-Comedy,6.1,true,65,Otherhood,2019
-Documentary,7.8,true,64,Fantastic Fungi,2019
-Documentary,6.8,true,64,David Foster: Off the Record,2019
-"Crime,Drama",7.6,true,64,A Sun,2019
-"Drama,Horror,Mystery,Thriller",5.7,true,64,Eli,2019
-Drama,5.8,true,64,American Son,2019
-"Crime,Drama,Thriller",5.9,true,64,Rust Creek,2019
-"Comedy,Drama,Music",7,true,64,Fisherman’s Friends,2019
-"Action,Crime",6.6,true,64,Avengement,2019
-"Crime,Drama",5.4,true,64,Lying and Stealing,2019
-Drama,5.3,true,64,Who Would You Take to a Deserted Island?,2019
-"Drama,Horror,Romance",6.5,true,63,Inhuman Kiss,2019
-"Comedy,Drama,Romance",6.1,true,63,Holiday in the Wild,2019
-"Drama,Thriller",6.2,true,63,The Hummingbird Project,2019
-"Action,Biography,Crime,Drama",6.5,true,63,Master Z: Ip Man Legacy,2019
-"Comedy,Crime,Romance",6.3,true,63,Furie,2019
-"Drama,Horror,Mystery,Thriller",8.2,true,63,The Blue Elephant Part 2,2019
-"Documentary,Music",7.4,true,63,"Everybody's Everything",2019
-Documentary,7.4,true,63,Capital in the Twenty-First Century,2019
-"Action,Adventure,Comedy,Sci-Fi",5.2,true,63,Rim of the World,2019
-"Animation,Drama,Family",7.5,true,63,Violet Evergarden: Eternity and the Auto Memory Doll,2019
-Comedy,7.8,true,62,Aziz Ansari: Right Now,2019
-"Horror,Mystery,Thriller,Western",5.6,true,62,The Wind,2019
-"Action,Drama,Mystery,Thriller",5.7,true,62,The Operative,2019
-"Adventure,Horror,Mystery,Sci-Fi,Thriller",5.8,true,62,Sweetheart,2019
-"Action,Thriller",5.6,true,62,Triple Threat,2019
-"Comedy,Drama",6.3,true,62,Sword of Trust,2019
-Drama,8,true,62,Uyare,2019
-"Comedy,Drama",6.5,true,62,Chopsticks,2019
-"Comedy,Romance",5.6,true,62,Falling Inn Love,2019
-"Adventure,Comedy,Drama",5.5,true,61,Wine Country,2019
-"Comedy,Drama",5.9,true,61,4 latas,2019
-"Comedy,Romance",5.6,true,61,The Last Summer,2019
-Comedy,7.5,true,61,Seth Meyers: Lobby Baby,2019
-Drama,7.3,true,61,"I'm No Longer Here",2019
-Sport,5.9,true,61,"Bennett's War",2019
-Documentary,8.3,true,61,Dancing with the Birds,2019
-Comedy,7.2,true,61,Wanda Sykes: Not Normal,2019
-"Drama,Thriller",8.5,true,61,Oththa Seruppu Size 7,2019
-"Crime,Drama,Mystery,Romance,Thriller",5.9,true,61,Earthquake Bird,2019
-"Crime,Thriller",6.3,true,60,The Legacy of the Bones,2019
-"Comedy,Romance",6.3,true,60,Luka Chuppi,2019
-"Drama,Horror,Mystery,Thriller",5.1,true,60,Polaroid,2019
-Documentary,7.4,true,60,This Changes Everything,2019
-"Animation,Adventure,Family",6.6,true,60,Dragon Quest: Your Story,2019
-"Documentary,Music",6.9,true,60,Echo in the Canyon,2019
-Thriller,5.8,true,60,The Wedding Guest,2019
-"History,Sport,Thriller",6.2,true,60,The Coldest Game,2019
-"Adventure,Comedy,Drama,Fantasy,Romance",5.6,true,60,The Knight Before Christmas,2019
-"Comedy,Drama,Fantasy,Romance,Sport",7.2,true,60,Seventeen,2019
-"Action,Crime,Thriller",5.6,true,60,Inside Man: Most Wanted,2019
-"Drama,Romance",7.1,true,60,Tune in for Love,2019
-"Action,Drama,Thriller",6.6,true,60,Romeo Akbar Walter,2019
-"Adventure,Drama,Sci-Fi",4.7,true,59,IO,2019
-"Comedy,Romance",6.9,true,59,Straight Up,2019
-"Animation,Action,Adventure,Comedy,Family",7,true,59,"Rocko's Modern Life: Static Cling",2019
-Comedy,7,true,59,Anthony Jeselnik: Fire in the Maternity Ward,2019
-"Crime,Drama,Mystery,Thriller",8.6,true,59,K. D.,2019
-Comedy,7.4,true,59,Ronny Chieng: Asian Comedian Destroys America!,2019
-"Drama,Thriller",6.4,true,59,Mine 9,2019
-"Biography,Drama",7.5,true,59,The Grizzlies,2019
-"Documentary,Music",7.3,true,59,ReMastered: The Two Killings of Sam Cooke,2019
-"Documentary,Biography,Drama",6.4,true,59,Framing John DeLorean,2019
-"Animation,Adventure,Drama,Family,Fantasy,Mystery,Sci-Fi",6.5,true,59,Children of the Sea,2019
-"Drama,Mystery",6.2,true,59,A Land Imagined,2019
-"Action,Adventure,Comedy,Sci-Fi",5,true,58,Iron Sky: The Coming Race,2019
-Drama,5.5,true,58,Burning Cane,2019
-Thriller,5.8,true,58,Strange But True,2019
-"Horror,Music,Thriller",5.2,true,58,We Summon the Darkness,2019
-"Animation,Action,Family,Fantasy",5.7,true,58,Pokémon: Mewtwo Strikes Back - Evolution,2019
-"Biography,Drama,Sport",7,true,58,Ride Like a Girl,2019
-"Comedy,Drama,Fantasy",6.3,true,58,The Man Without Gravity,2019
-Comedy,6.9,true,58,Deon Cole: Cole Hearted,2019
-"Drama,Romance",7.4,true,58,"Hello, Love, Goodbye",2019
-"Biography,Drama,Mystery",6.4,true,57,Memories of a Teenager,2019
-Documentary,7.4,true,57,The Black Godfather,2019
-"Action,Crime,Drama,Thriller",5.7,true,57,Point Blank,2019
-Comedy,7.1,true,57,Aykut Enişte,2019
-"Comedy,Family,Fantasy,Music,Romance",5.3,true,57,A Cinderella Story: Christmas Wish,2019
-Comedy,5.9,true,57,Ready to Mingle,2019
-"Drama,Horror,Mystery",4.6,true,57,Girl on the Third Floor,2019
-"Horror,Mystery,Thriller",6.3,true,57,Svaha: The Sixth Finger,2019
-Sci-Fi,4.5,true,57,3022,2019
-"Animation,Adventure,Comedy,Family,Music",5.9,true,57,Dog Gone Trouble,2019
-Biography,6.1,true,57,Kardec,2019
-"Comedy,Drama,Family,Romance",5.2,true,57,Tall Girl,2019
-"Drama,Romance",6.8,true,56,Alone/Together,2019
-"Action,Comedy",7.4,true,56,Mard Ko Dard Nahi Hota,2019
-"Horror,Thriller",6,true,56,122,2019
-"Documentary,Short",7.4,true,56,The Irishman: In Conversation,2019
-Documentary,8.8,true,56,Rubaru Roshni,2019
-Comedy,7.3,true,56,Jimmy Carr: The Best of Ultimate Gold Greatest Hits,2019
-"Comedy,Drama",6.4,true,56,School Life,2019
-"Family,Romance",5.4,true,56,A Christmas Prince: The Royal Baby,2019
-"Documentary,Biography",7.1,true,56,"El Pepe, A Supreme Life",2019
-Comedy,5.2,true,56,Amy Schumer: Growing,2019
-"Drama,Romance",8.1,true,56,Sillu Karupatti,2019
-"Horror,Thriller",5.6,true,56,The Last Laugh,2019
-"Drama,Mystery,Thriller",6.1,true,55,The Same Blood,2019
-"Action,Adventure,Crime,Horror,Thriller",4.9,true,55,The Silence of the Marsh,2019
-"Action,Adventure,Horror,Sci-Fi,Thriller",3.7,true,55,Doom: Annihilation,2019
-Biography,8.4,true,55,Mallesham,2019
-Comedy,6,true,55,Organize İşler: Sazan Sarmalı,2019
-"Action,Drama,War",5.7,true,55,Jarhead: Law of Return,2019
-"Drama,Romance",7,true,55,Dreamy Eyes,2019
-Documentary,7.6,true,55,The Crystal Calls - Making The Dark Crystal: Age of Resistance,2019
-Comedy,4.4,true,55,Sextuplets,2019
-Comedy,7.3,true,55,Gabriel Iglesias: One Show Fits All,2019
-"Horror,Mystery,Thriller",4.9,true,55,Mercy Black,2019
-Comedy,7.6,true,55,Nate Bargatze: The Tennessee Kid,2019
-Comedy,7.1,true,55,Sebastian Maniscalco: Stay Hungry,2019
-"Documentary,Music",6.3,true,55,Travis Scott: Look Mom I Can Fly,2019
-"Documentary,Short",7.4,true,55,Fire in Paradise,2019
-"Crime,Drama",6.1,true,55,The Ruthless,2019
-"Crime,Thriller",4.8,true,55,Kidnapping Stella,2019
-Comedy,6.9,true,55,Jeff Dunham: Beside Himself,2019
-"Biography,Drama,Romance",6.6,true,55,Elisa & Marcela,2019
-"Action,Adventure,Crime,Drama,Horror,Mystery,Thriller",5.2,true,54,Twin Murders: The Silence of the White City,2019
-Western,5.5,true,54,Badland,2019
-"Drama,Romance",7.2,true,54,Happy Old Year,2019
-"Comedy,Drama",7.2,true,54,The Lift Boy,2019
-"Drama,Romance",5,true,54,Maria,2019
-Drama,7.3,true,54,"Kalel, 15",2019
-"Crime,Thriller",6.4,true,54,The Watchman,2019
-Comedy,3.9,true,54,Drunk Parents,2019
-"Documentary,Short",6.5,true,54,Life Overtakes Me,2019
-Comedy,6.5,true,54,Iliza Shlesinger: Unveiled,2019
-"Drama,History",6.5,true,54,#AnneFrank. Parallel Stories,2019
-"Animation,Short,Drama",7.3,true,54,Sitara: Let Girls Dream,2019
-"Documentary,Biography",7,true,54,ReMastered: Devil at the Crossroads,2019
-Talk-Show,7.7,true,54,Oprah Winfrey Presents: When They See Us Now,2019
-Drama,6,true,54,Juanita,2019
-Documentary,6.5,true,54,Wonder Boy,2019
-"Documentary,Music",7.3,true,53,Dolly Parton: Here I Am,2019
-Drama,7.8,true,53,Hamid,2019
-"Documentary,Biography,Family,History,Sport",7.3,true,53,Shelby American,2019
-"Action,Crime,Drama,Thriller",4.9,true,53,Backdraft 2,2019
-Drama,6.9,true,53,Bulbul Can Sing,2019
-"Animation,Drama,History,War",6.9,true,53,Funan,2019
-"Action,Horror,Mystery,Sci-Fi,Thriller",4.3,true,53,Dark Light,2019
-Documentary,6.8,true,53,Our Godfather,2019
-"Comedy,Drama,Romance",5.7,true,53,Almost Love,2019
-"Drama,Romance",6.7,true,53,Dilan 1991,2019
-"Adventure,Crime,Drama,Mystery,Romance,Thriller",6.2,true,53,Made In China,2019
-"Documentary,Short,Family",6.8,true,53,All in My Family,2019
-Comedy,6.5,true,53,Whitney Cummings: Can I Touch It?,2019
-Documentary,7.3,true,53,Cracked Up: The Darrell Hammond Story,2019
-"Animation,Action,Adventure,Family,Fantasy,Romance",6.1,true,53,NiNoKuni,2019
-Comedy,7.3,true,53,Jo Koy: Comin’ In Hot,2019
-Drama,5.7,true,53,Noblemen,2019
-Comedy,7.6,true,53,"Colin Quinn: Red State, Blue State",2019
-"Documentary,Sport",7.4,true,52,Bethany Hamilton: Unstoppable,2019
-"Comedy,Drama",7,true,52,Axone,2019
-"Comedy,Drama,Fantasy",7.4,true,52,Oh! Baby,2019
-"Biography,Drama",5.4,true,52,J.T. LeRoy,2019
-"Biography,Drama",6.4,true,52,Walk. Ride. Rodeo.,2019
-Thriller,4.4,true,52,Secret Obsession,2019
-"Drama,Horror,Mystery,Thriller",4.6,true,52,Rattlesnake,2019
-"Action,Comedy,Crime",4.8,true,52,The Hard Way,2019
-Comedy,6,true,52,Kandasamys The Wedding,2019
-"Action,Thriller",6.8,true,52,Thambi,2019
-"Animation,Short",6.4,true,52,Sturgill Simpson Presents Sound & Fury,2019
-Documentary,6.4,true,52,Out Of The Clear Blue Sky,2019
-"Comedy,Drama,Romance,Sport",4.2,true,52,The Zoya Factor,2019
-"Action,Drama,History,War",5.3,true,52,Panipat,2019
-"Documentary,Biography,Sport",6.5,true,51,Antoine Griezmann: The Making of a Legend,2019
-Drama,7.4,true,51,Mehandi Circus,2019
-"Documentary,Short,Biography,Drama",6.8,true,51,A Love Song for Latasha,2019
-"Documentary,Biography",7,true,51,Merata: How Mum Decolonised the Screen,2019
-"Crime,Drama,Music,Romance",6,true,51,"Let's Dance",2019
-Documentary,6.5,true,51,League of Legends Origins,2019
-Documentary,6.3,true,51,The Creative Brain,2019
-"Drama,Horror,Mystery",3.5,true,51,"Jacob's Ladder",2019
-"Animation,Comedy,Drama",7,true,51,Alice Júnior,2019
-"Documentary,Comedy",7.2,true,51,"Ray Romano: Right Here, Around the Corner",2019
-Drama,7,true,51,M8 - When Death Rescues Life,2019
-"Animation,Adventure,Comedy,Family",4.7,true,51,Arctic Dogs,2019
-"Drama,History",6.6,true,51,This Earth of Mankind,2019
-"Drama,Romance",6.1,true,51,Cuddle Weather,2019
-"Documentary,Biography,Sport",7.1,true,51,A Kid from Coney Island,2019
-"Drama,Romance",7,true,51,Once Again,2019
-Comedy,5.7,true,51,"Ken Jeong: You Complete Me, Ho",2019
-"Documentary,Crime,Music",7,true,51,ReMastered: The Miami Showband Massacre,2019
-Drama,7,true,51,Miss Virginia,2019
-"Drama,Thriller",4.7,true,51,Only Mine,2019
-"Animation,Adventure,Comedy",3.8,true,50,Pets United,2019
-"Documentary,Drama",7.3,true,50,ReMastered: Massacre at the Stadium,2019
-"Action,Adventure,Comedy,Drama,Family,Mystery",8,true,50,"Free Rein: Valentine's Day",2019
-"Documentary,Drama",7.6,true,50,Brené Brown: The Call to Courage,2019
-"Documentary,Biography,Family,Sport",6.2,true,50,"The Ronda Rousey Story: Through My Father's Eyes",2019
-"Crime,Drama",3.5,true,50,Drive,2019
-"Action,Thriller",5.2,true,50,Saaho,2019
-"Drama,Music",7.5,true,50,Sarvam Thaala Mayam,2019
-Documentary,7.9,true,50,Salam - The First ****** Nobel Laureate,2019
-Documentary,6.7,true,50,Brave Blue World: Racing to Solve Our Water Crisis,2019
-"Comedy,Romance",4.9,true,50,"Oh, Ramona!",2019
-"Comedy,Family",5.5,true,50,House Arrest,2019
-Documentary,7.1,true,50,Wandering Stars,2019
-Comedy,5.5,true,50,"Kevin Hart's Guide to Black History",2019
-"Comedy,Family",5.2,true,50,Back of the Net,2019
-"Drama,Family",7.8,true,50,"Cemara's Family",2019
-Comedy,5.4,true,50,Despite Everything,2019
-"Comedy,Romance",7.8,true,50,"Isa Pa, with Feelings",2019
-"Comedy,Family",4.9,true,50,Grand-Daddy Day Care,2019
-"Mystery,Thriller",4.5,true,49,Deadly Switch,2019
-"Action,Thriller",7.2,true,49,Uriyadi 2,2019
-"Drama,Thriller,War",4.3,true,49,The Trap,2019
-"Biography,Drama",5.2,true,49,Thackeray,2019
-"Documentary,History",6.6,true,49,Iron Fists and Kung Fu Kicks,2019
-"Documentary,Short,Sport",7,true,49,"Lorena, Light-footed Woman",2019
-"Sci-Fi,Thriller",5.5,true,49,Dead Kids,2019
-"Drama,Western",5.1,true,49,The Brave,2019
-"Comedy,Romance",6.2,true,49,In Family I Trust,2019
-Comedy,6,true,49,"Nikki Glaser: Bangin'",2019
-"Comedy,Drama",5.3,true,49,Dolly Kitty and Those Twinkling Stars,2019
-Comedy,5.8,true,49,Adam Devine: Best Time of Our Lives,2019
-"Drama,Romance",7.1,true,49,Ave Maryam,2019
-"Comedy,Romance,Sport",5.3,true,49,Back to School,2019
-"Action,Drama,Thriller",6.2,true,49,Redemption,2019
-"Comedy,Romance",5.8,true,49,Motichoor Chaknachoor,2019
-"Comedy,Drama",7.2,true,48,Guddiyan Patole,2019
-Comedy,6.2,true,48,Tiffany Haddish: Black Mitzvah,2019
-Drama,7,true,48,"Sincerely Yours, Dhaka",2019
-Documentary,6.8,true,48,Dying to Tell,2019
-Documentary,6.2,true,48,Calum Von Moger: Unbroken,2019
-Action,6.8,true,48,HiGH&LOW THE WORST,2019
-"Documentary,Short",5.5,true,48,Ghosts of Sugar Land,2019
-"Action,Crime,Drama,Thriller",4.5,true,48,Paradise Beach,2019
-Music,7,true,48,Mayday Life,2019
-"Comedy,Drama,Romance",6,true,48,Belmonte,2019
-"Documentary,Music",6.9,true,48,"ReMastered: The Lion's Share",2019
-"Comedy,Drama,Family,Romance",4.9,true,48,Holiday Rush,2019
-"Comedy,Romance",5.3,true,48,Under the Eiffel Tower,2019
-Animation,8.3,true,48,A Truthful Mother,2019
-"Drama,Family,Sport",5.1,true,48,A Second Chance: Rivals!,2019
-"Animation,Adventure,Comedy,Family",5.7,true,48,Latte and the Magic Waterstone,2019
-"Comedy,Sport",6.2,true,48,Pegasus,2019
-Drama,4.6,true,48,Paris Is Us,2019
-Drama,8.1,true,48,Bhai - Vyakti ki Valli,2019
-"Comedy,Drama",6.8,true,48,Too Handsome To Handle,2019
-Comedy,7.6,true,48,What the F* Is Going On?,2019
-"Comedy,Horror",3.8,true,47,Girls with Balls,2019
-"Drama,Fantasy,Horror,Mystery,Thriller",5.5,true,47,The 3rd Eye 2,2019
-Drama,7.2,true,47,Evvarikee Cheppoddu,2019
-Comedy,6.4,true,47,Simon Amstell: Set Free,2019
-Family,4.4,true,47,Christmas Break-In,2019
-"Crime,Drama,Mystery,Thriller",5.2,true,47,Seven,2019
-"Action,Horror,Thriller",4,true,47,The Car: Road to Revenge,2019
-Music,8.3,true,47,Hikaru Utada Laughter in the Dark Tour 2018,2019
-Comedy,5.4,true,47,A Remarkable Tale,2019
-"Action,Crime,Drama,Thriller",6.3,true,47,Jo Pil-ho: The Dawning Rage,2019
-"Action,Comedy,Family",5,true,47,Malibu Rescue,2019
-Drama,6.7,true,47,Justine,2019
-"Crime,Drama,Romance",6.7,true,47,Brother,2019
-Comedy,6.9,true,47,Whindersson Nunes: Adult,2019
-"Comedy,Family,Romance",5,true,46,Santa Girl,2019
-"Comedy,Sport",4.2,true,46,Benchwarmers 2: Breaking Balls,2019
-"Drama,Romance",6.9,true,46,Love for Sale 2,2019
-"Animation,Drama,Romance",6.1,true,46,Bombay Rose,2019
-"Comedy,Family,Fantasy,Musical,Romance",4.6,true,46,Cinderella Pop,2019
-"Comedy,Drama",7.4,true,46,Vikruthi,2019
-Horror,4.5,true,46,The Influence,2019
-"Animation,Short,Action,Adventure,Comedy,Family",5.6,true,46,LEGO Marvel Spider-Man: Vexed By Venom,2019
-Drama,5.3,true,46,The World We Make,2019
-Comedy,6.3,true,46,Mo Gilligan: Momentum,2019
-"Drama,Fantasy,Sport",5.7,true,46,Full Count,2019
-Drama,7.1,true,46,Patria,2019
-Comedy,5.4,true,46,Born Beautiful,2019
-"Short,Drama",6.7,true,46,The Letter Reader,2019
-"Comedy,Drama",6.3,true,46,Alelí,2019
-Comedy,5.6,true,46,The Panti Sisters,2019
-Comedy,3.1,true,46,How High 2,2019
-"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",7.2,true,46,True: Grabbleapple Harvest,2019
-,5.7,true,46,Good Sam,2019
-Documentary,6.7,true,46,Léa & I,2019
-Documentary,6.9,true,46,Parchís: The Documentary,2019
-"Comedy,Romance,Sport",5.2,true,46,All the Freckles in the World,2019
-Documentary,6.8,true,46,"I'm Leaving Now",2019
-Comedy,4.8,true,46,Mike Epps: Only One Mike,2019
-"Documentary,Short",6.3,true,46,A Tale of Two Kitchens,2019
-"Mystery,Thriller",5,true,45,Boi,2019
-"Action,Crime,Thriller",5.8,true,45,The Girl and The Gun,2019
-"Drama,Mystery",5,true,45,American Woman,2019
-"Documentary,Drama",6.6,true,45,Hope Frozen: A Quest to Live Twice,2019
-"Documentary,Biography,Drama",6.5,true,45,It Takes a Lunatic,2019
-"Comedy,Romance",7.1,true,45,Sakaling Maging Tayo,2019
-"Drama,Fantasy,Romance,Sci-Fi",6.3,true,45,Eggnoid,2019
-Comedy,4.8,true,45,The Little Switzerland,2019
-Drama,7.4,true,45,Lola Igna,2019
-Drama,5.9,true,45,15-Aug,2019
-"Drama,Horror,Thriller",5,true,45,Scarecrow,2019
-"Drama,Romance",6.3,true,45,Between Maybes,2019
-"Action,Drama,Romance",6,true,45,Malaal,2019
-"Action,Crime,Drama",3.8,true,45,Women of Mafia 2,2019
-"Action,Drama",5.6,true,44,The (Silent) War,2019
-Drama,6.7,true,44,Upstarts,2019
-Comedy,5.7,true,44,Wannabe Courageous,2019
-"Adventure,Comedy",6.6,true,44,My Stupid Boss 2,2019
-"Comedy,Romance",4.4,true,44,Öldür Beni Sevgilim,2019
-"Comedy,Drama,Romance",4.8,true,44,Manmadhudu 2,2019
-"Documentary,Short",7.2,true,44,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,2019
-Comedy,5.8,true,44,Tootsies & The Fake,2019
-"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",7.1,true,44,True: Tricky Treat Day,2019
-Drama,7,true,44,Thottappan,2019
-"Action,Sci-Fi",4.3,true,44,Shanghai Fortress,2019
-"Documentary,Music",7,true,44,Los Tigres del Norte at Folsom Prison,2019
-"Comedy,Family",5.7,true,44,A Family Reunion Christmas,2019
-Comedy,7.1,true,44,Franco Escamilla: bienvenido al mundo,2019
-Drama,6.8,true,44,Mere Pyare Prime Minister,2019
-"Documentary,Adventure,News",7.8,true,44,SunGanges,2019
-"Drama,Mystery,Thriller",5.4,true,44,Bypass Road,2019
-"Action,War",2.8,true,44,Rogue Warfare,2019
-"Documentary,Short,Drama",4.7,true,43,Mohamed Hussein,2019
-"Comedy,Drama,Romance",6.4,true,43,Mundina Nildana,2019
-Action,6.3,true,43,Wira,2019
-"Drama,Horror,Mystery,Thriller",2.8,true,43,Deadcon,2019
-"Animation,Short,Action,Adventure,Comedy,Family",6.1,true,43,The Spooky Tale of Captain Underpants Hack-a-ween,2019
-"Drama,Fantasy",5.8,true,43,Living in Bondage: Breaking Free,2019
-Family,7.2,true,43,Sethum Aayiram Pon,2019
-"Action,Sci-Fi",2.6,true,43,Alien Warfare,2019
-"Animation,Adventure,Drama,Family",5.8,true,43,Spirit Riding Free: Spirit of Christmas,2019
-Comedy,4.4,true,43,No Place Like Home,2019
-Comedy,5.5,true,43,Miranda Sings Live... Your Welcome.,2019
-Comedy,6,true,43,Katherine Ryan: Glitter Room,2019
-"Horror,Romance",5.2,true,43,Revenge of the Pontianak,2019
-"Comedy,Drama",6,true,43,A Home with a View,2019
-Comedy,3.4,true,43,Undercover Brother 2,2019
-Thriller,3.6,true,43,Deviant Love,2019
-Documentary,2.5,true,43,Enter the Anime,2019
-"Adventure,Drama",5.4,true,42,The Body,2019
-,5.2,true,42,Firebrand,2019
-"Crime,Drama",5.5,true,42,Òlòtūré,2019
-"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",8.2,true,42,True: Happy Hearts Day,2019
-"Action,Drama",6.3,true,42,Guna 369,2019
-Thriller,4.3,true,42,Fear Bay,2019
-Crime,6.4,true,42,Street Flow,2019
-"Drama,Romance",7,true,42,Si Doel the Movie 2,2019
-Drama,5.5,true,42,Albert Pinto Ko Gussa Kyun Aata Hai?,2019
-Comedy,5.9,true,42,Jeff Garlin: Our Man in Chicago,2019
-"Drama,Romance",7.1,true,42,The Wedding Shaman,2019
-Documentary,7.4,true,42,Carlos Almaraz: Playing With Fire,2019
-Thriller,4.3,true,42,Kill Me Twice,2019
-Drama,5.8,true,42,Keeping the Bees,2019
-"Documentary,Short",6.4,true,42,Birders,2019
-Action,3.5,true,42,The Reliant,2019
-Horror,4.8,true,42,Rakkhosh,2019
-"Comedy,Music",5.2,true,42,Still Laugh-In: The Stars Celebrate,2019
-Drama,5.4,true,41,What are the Odds?,2019
-"Action,Crime,Thriller",5,true,41,One Day: Justice Delivered,2019
-"Documentary,Sport",8.1,true,41,"River, el Más Grande Siempre",2019
-Comedy,6,true,41,Daniel Sosa: Maleducado,2019
-Action,3.1,true,41,Rogue Warfare: The Hunt,2019
-"Drama,Sci-Fi,Thriller",2.6,true,41,The App,2019
-,,true,41,Little Singham: Kaal Ki Tabaahi,2019
-"Short,Drama,Family,Fantasy",7.1,true,41,Baxu and the Giants,2019
-"Documentary,Comedy",6,true,41,Jack Whitehall: Christmas with my Father,2019
-"Action,Crime,Drama,Fantasy",5.6,true,41,The 9th Precinct,2019
-"Animation,Adventure,Comedy,Family",3.2,true,41,Norm of the North: King Sized Adventure,2019
-Comedy,4.4,true,41,Stunt School,2019
-Comedy,4.2,true,41,Feo pero Sabroso,2019
-"Short,Comedy,Drama",7.1,true,41,Aziza,2019
-"Comedy,Drama",5.8,true,41,Tuna Girl,2019
-Thriller,6.4,true,41,4th Republic,2019
-"Documentary,Music",7.1,true,41,The Remix: Hip Hop x Fashion,2019
-"Comedy,Family",5.7,true,41,Kids on the Block,2019
-Documentary,6.8,true,41,El Sendero de la Anaconda,2019
-"Documentary,Short",4.3,true,41,After the Raid,2019
-Comedy,3.9,true,41,"¡Ay, mi madre!",2019
-Comedy,6.4,true,40,"Martin Matte : La vie, la mort... eh la la..!",2019
-"Crime,Drama,Mystery",4.5,true,40,Paharganj,2019
-Family,,true,40,Luccas Neto em: Uma Babá Muito Esquisita,2019
-"Action,Comedy",6.7,true,40,Merry Men 2: Another Mission,2019
-"Animation,Action,Adventure",5.3,true,40,Chhota Bheem Kung Fu Dhamaka,2019
-Drama,5.6,true,40,Jada,2019
-,7.7,true,40,Bhai - Vyakti Ki Valli 2 Uttarardha,2019
-Documentary,7.2,true,40,Alexis Viera: A Story of Surviving,2019
-"Comedy,Horror,Thriller",5.4,true,40,Red Snow,2019
-Comedy,,true,40,Three Thieves,2019
-Comedy,7.3,true,40,Ricardo Quevedo: Los amargados somos más,2019
-"Biography,Drama,Sport",6.6,true,40,Tee Shot: Ariya Jutanugarn,2019
-"Biography,Crime,Drama,Romance",7.1,true,40,Skin,2019
-Family,5.5,true,40,Go! The Unforgettable Party,2019
-Documentary,,true,40,The American Game,2019
-Comedy,4.8,true,40,Misfit 2,2019
-"Fantasy,Mystery,Thriller",5.9,true,40,Candyflip,2019
-Animation,5.5,true,39,Super Monsters Furever Friends,2019
-"Crime,Drama,Thriller",6.6,true,39,Saavat,2019
-"Documentary,Short",,true,39,Awon Boyz,2019
-"Comedy,Drama",7,true,39,Elevator Baby,2019
-Thriller,,true,39,Uncovered,2019
-"Comedy,Crime,Drama",4.5,true,39,Bombairiya,2019
-Comedy,7.3,true,39,Bonne nuit Blanche,2019
-,,true,39,Luccas Neto in: The End of Christmas,2019
-"Drama,Romance",5.9,true,39,Dorasaani,2019
-Sport,5.5,true,39,Penalty,2019
-,,true,39,"Luccas Neto in: Children's Day",2019
-Romance,6.5,true,38,Kasanova,2019
-"Action,Sci-Fi",2,true,38,Cross: Rise of the Villains,2019
-Family,3.3,true,38,Nothing to Lose - Part 2,2019
-Comedy,6,true,38,Arsenio Hall: Smart and Classy,2019
-Comedy,3.4,true,38,90 ML,2019
-"Comedy,Drama,Romance",5.1,true,38,Freshman Year,2019
-"Drama,Fantasy,Thriller",,true,38,Zero Hour,2019
-Action,5.2,true,38,We Are Legends,2019
-Comedy,6.3,true,38,Mokalik (Mechanic),2019
-"Comedy,Drama,Family,Musical,Romance",5.9,true,38,High End Yaariyaan,2019
-Comedy,4.9,true,38,Park Na-rae: Glamour Warning,2019
-"Comedy,Horror",5.3,true,38,Uncle Naji in UAE,2019
-Drama,5.7,true,38,Nimbe,2019
-"Comedy,Romance",6.1,true,38,The Perfect Picture: Ten Years Later,2019
-"Animation,Adventure,Comedy,Family,Horror,Musical",4.8,true,37,Super Monsters Save Christmas,2019
-"Drama,Thriller",4.3,true,37,Aaviri,2019
-"Action,Comedy,Crime,Thriller",4.2,true,37,The Set Up,2019
-Documentary,6.6,true,37,Guatemala: Corazón del Mundo Maya,2019
-"Drama,Thriller",6.2,true,37,Krutant,2019
-"Comedy,Drama",5.5,true,37,Kalek Shanab,2019
-"Action,Crime,Drama,Thriller",4.4,true,37,Pranaam,2019
-Comedy,5.1,true,37,Kaake Da Viyah,2019
-,,true,37,"Hoshino Gen Dome Tour ""POP VIRUS"" at Tokyo Dome",2019
-,,true,37,Cultivating the Seas: History and Future of the Full-Cycle Cultured Kindai Tuna,2019
-Animation,4.8,true,37,"Elf Pets: A Fox Cub's Christmas Tale",2019
-"Documentary,Short",5.2,true,37,American Factory: A Short Conversation with the Obamas,2019
-Documentary,7.3,true,37,To Be of Service,2019
-"Comedy,Thriller",5.6,true,37,The Millions,2019
-"Drama,Thriller",2.7,true,37,Kolaiyuthir Kaalam,2019
-"Animation,Adventure,Comedy,Family,Horror,Musical",5.8,true,37,"Super Monsters: Vida's First Halloween",2019
-Comedy,5.5,true,37,Fadily Camara: La plus drôle de tes copines,2019
-Comedy,6.8,true,37,Edoardo Ferrario: Temi Caldi,2019
-"Adventure,Comedy,Drama,Family,Sport",4.9,true,36,Mi amigo Alexis,2019
-Comedy,5.1,true,36,Loving is Losing,2019
-,,true,36,Luccas Neto in: Summer Camp,2019
-"Drama,Romance",5.4,true,36,Ali and Alia,2019
-"Comedy,Drama",6,true,36,Bridezilla,2019
-"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",6.9,true,36,True: Winter Wishes,2019
-"Comedy,Drama",6.5,true,36,Your Excellency,2019
-Drama,7.2,true,36,Love Is War,2019
-Comedy,5.2,true,36,R. K. Nagar,2019
-"Comedy,Drama,Sport",7.2,true,36,Sur Sapata,2019
-"Comedy,Drama,Romance",1.8,true,36,5Gang: A Different Kind of Christmas,2019
-"Comedy,Drama",5.2,true,36,Wives on Strike: The Revolution,2019
-Comedy,5.9,true,36,Saverio Raimondo: Il Satiro Parlante,2019
-Documentary,4.4,true,36,"Hello, Privilege. It's Me, Chelsea",2019
-Drama,6.5,true,35,The Bling Lagosians,2019
-"Mystery,Thriller",5.2,true,35,In Paradox,2019
-Comedy,5.7,true,35,Francesco De Carlo: Cose di Questo Mondo,2019
-"Animation,Adventure,Comedy,Family,Horror,Musical",6.9,true,35,Super Monsters Back to School,2019
-Drama,4.5,true,35,Hot Gimmick: Girl Meets Boy,2019
-Documentary,6.7,true,34,Ibrahim: A Fate to Define,2019
-Drama,5.1,true,34,The End,2019
-Documentary,6.2,true,34,Surviving R. Kelly: The Impact,2019
-"Crime,Drama",5.9,true,34,Kaagar,2019
-"Animation,Short,Adventure,Drama,Family,Fantasy",3.8,true,34,Spookley and the Christmas Kittens,2019
-"Comedy,Drama",4.4,true,33,Luckee,2019
-Comedy,6.6,true,33,Liss Pereira: Renteniendo Liquidos,2019
-"Crime,Thriller",3.6,true,32,Sin City,2019
-"Documentary,Short",4.6,true,31,After Maria,2019
-Comedy,4.9,true,30,Holy Expectations,2019
-Comedy,4.4,true,29,Grego Rossello: disculpe las molestias,2019
-,2.5,true,28,Thomas E Seus Amigos Minas do Mistério,2019
-,2,true,27,Thomas E Seus Amigos Todos os trilhos levam a Roma,2019
-,,true,12,Chhota Bheem Ka Roosi Romanch,2019
-,,true,12,Little Singham: Mahabali,2019
-,,true,12,ChuChuTV Surprise Eggs Learning Videos (Hindi),2019
-"Animation,Family,Musical",,true,12,"Pinkfong and Baby Shark's Space Adventure",2019
-Drama,,true,12,She Is,2019
-Drama,,true,10,The Last Bomb of the Second World War,2019
-,,true,10,ChuChuTV Surprise Eggs Learning Videos (English),2019
-,,true,10,ChuChuTV Bedtime Stories & Moral Stories for Kids (Hindi),2019
-Comedy,,true,,Amit Tandon: Family Tandoncies,2019
-,,true,,ChuChuTV Bedtime Stories & Moral Stories for Kids (English),2019
-"Crime, Drama, Mystery, Thriller",8.2,true,,The Witcher,2019
-"Action, Adventure, Drama, Mystery, Thriller",8.8,true,,The Mandalorian,2019
-"Comedy, Drama",8.6,true,,Love on the Spectrum,2019
+Genres,IMDb,Rotten Tomatoes,Title
+"Biography,Crime,Drama",7.8,98,The Irishman
+"Crime,Drama,Mystery,Thriller",8.2,92,Article 15
+"Biography,Comedy,Drama",7.3,92,Dolemite Is My Name
+"Documentary,Crime,Music",7.2,91,Fyre
+"Biography,Drama,History,Romance,War",7.2,90,The King
+"Drama,Mystery,Sci-Fi,Thriller",6.7,89,I Am Mother
+"Drama,Thriller",7.6,89,Tell Me Who I Am
+"Animation,Drama,Fantasy,Romance",7.6,89,I Lost My Body
+"Biography,Drama,History",7.6,89,The Boy Who Harnessed the Wind
+"Comedy,Romance",6.8,88,Always Be My Maybe
+Comedy,8.2,87,Bill Burr: Paper Tiger
+"Comedy,Crime,Drama,Thriller",8.4,87,Super Deluxe
+Documentary,7.4,86,American Factory
+"Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi",6.8,86,A Shaun the Sheep Movie: Farmageddon
+"Animation,Action,Adventure,Comedy,Family,Sci-Fi",7.5,86,Invader ZIM: Enter the Florpus
+Comedy,8.5,84,Dave Chappelle: Sticks & Stones
+"Comedy,Drama",7.2,84,Paddleton
+"Documentary,History",7.2,83,The Edge of Democracy
+"Comedy,Drama,Romance",7.9,83,Marriage Story
+"Action,Drama,History,Thriller,War",7.2,82,The Endless Trench
+"Documentary,Biography,History",7.1,81,Circus of Books
+"Crime,Drama,Thriller",7.4,80,Uncut Gems
+"Drama,Romance",7.6,80,The Sky Is Pink
+"Crime,Drama,Mystery,Thriller",7.8,80,Badla
+"Biography,Comedy,Drama,Music",7,79,The Dirt
+"Drama,Mystery,Romance",6.7,79,Atlantics
+Drama,7.3,79,37 Seconds
+"Action,Crime,Drama",7.3,79,El Camino: A Breaking Bad Movie
+"Drama,Horror,Thriller",5.6,79,Get In
+"Documentary,Biography,Music",7.5,79,"ZZ Top: That Little Ol' Band From Texas"
+Comedy,7.7,78,Mike Birbiglia: The New One
+"Animation,Adventure,Comedy,Family",8.2,78,Klaus
+Biography,7.4,78,Miles Davis: Birth of the Cool
+Documentary,7.1,78,Screwball
+"Documentary,Crime",7.1,77,Roll Red Roll
+Drama,8.2,77,Miracle in Cell No. 7
+Documentary,7.3,77,Trixie Mattel: Moving Parts
+Drama,7.1,77,Evelyn
+"Crime,Mystery,Sci-Fi,Thriller",6.2,77,In the Shadow of the Moon
+"Action,Comedy,Crime,Mystery,Romance",6,76,Murder Mystery
+"Comedy,Drama",7.6,76,The Two Popes
+"Action,Adventure,Sci-Fi,Thriller",6,76,The Wandering Earth
+Thriller,6.6,76,Eye for an Eye
+"Action,Thriller",6.1,75,6 Underground
+"Action,Drama",7.3,75,Petta
+"Documentary,Crime",6.7,75,"Bikram: Yogi, Guru, Predator"
+"Action,Thriller",6.4,75,Angel Has Fallen
+"Drama,History,Thriller",6.6,75,The Red Sea Diving Resort
+"Adventure,Comedy,Drama,Family,Romance,Sport",7.1,74,Game Over
+"Biography,Crime,Drama,Thriller",6.7,74,"Extremely Wicked, Shockingly Evil and Vile"
+Comedy,6.1,74,Between Two Ferns: The Movie
+"Crime,Drama",7.1,73,Soni
+"Comedy,Romance",5.8,73,Let It Snow
+Documentary,7.1,73,Knock Down the House
+"Action,Crime,Drama,Thriller",6.3,73,Polar
+"Biography,Crime,Drama,Mystery,Thriller",6.9,73,The Highwaymen
+"Biography,Drama",7.3,73,The Professor and the Madman
+"Mystery,Thriller",6.4,73,Fractured
+"Comedy,Romance",5.8,72,The Perfect Date
+"Action,Crime,Drama,Sci-Fi,Thriller",6.1,72,Code 8
+"Action,Adventure,Crime,Thriller",6.4,72,Triple Frontier
+"Drama,Mystery,Sci-Fi,Thriller",6.7,72,Freaks
+"Drama,Romance",5.3,71,After
+"Horror,Mystery,Thriller",5.7,71,Velvet Buzzsaw
+"Comedy,Drama",7.2,71,"Live Twice, Love Once"
+"Action,Adventure,Drama,Fantasy",6.8,71,The Outpost
+"Action,Drama,Romance",7.1,71,Kabir Singh
+"Documentary,Music",7.5,71,Homecoming: A Film by Beyoncé
+"Action,Biography,Drama,History",7,71,Ip Man 4: The Finale
+"Comedy,Crime,Drama,History",6.3,71,The Laundromat
+Documentary,7.9,70,The Game Changers
+Comedy,7.2,70,Michelle Wolf: Joke Show
+"Biography,Drama,History",7.2,70,The Best of Enemies
+"Comedy,Romance",6.2,70,"Faith, Hope & Love"
+Documentary,7.2,70,Grass is Greener
+Drama,7.8,70,System Crasher
+"Comedy,Drama",5.6,70,An Easy Girl
+Documentary,6.7,70,"There's Something in the Water"
+Comedy,5.9,69,"Frankenstein's Monster's Monster, Frankenstein"
+"Documentary,Biography,History",7,69,The Great Hack
+"Crime,Drama,Horror,Thriller",6.3,69,The Forest of Love
+Documentary,8,68,The Silence of Others
+"Animation,Action,Adventure,Family,Fantasy,Thriller",7.5,68,Ne Zha
+"Documentary,Biography,History,Music",7.6,68,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese
+"Comedy,Romance",6.2,68,Someone Great
+"Animation,Adventure,Comedy,Family",6.4,67,The Angry Birds Movie 2
+"Comedy,Drama,Romance",5.5,67,Ek Ladki Ko Dekha Toh Aisa Laga
+"Action,Adventure,Sci-Fi,Thriller",6.9,67,"The Wolf's Call"
+"Comedy,Family,Musical",7.5,67,John Mulaney & The Sack Lunch Bunch
+Drama,6.9,67,The Body Remembers When the World Broke Open
+"Drama,Romance,Thriller",6.6,66,Ophelia
+Comedy,6.5,66,Kevin Hart: Irresponsible
+"Horror,Mystery,Sci-Fi,Thriller",5.4,66,In the Tall Grass
+"Adventure,Comedy,Drama",7,66,Then Came You
+"Comedy,Reality-TV",5.9,66,Jenny Slate: Stage Fright
+"Drama,Sport",6.2,66,High Flying Bird
+"Drama,Horror,Sci-Fi,Thriller",5.3,65,The Silence
+"Short,Comedy,Music,Sport",6.9,65,The Lonely Island Presents: The Unauthorized Bash Brothers Experience
+"Action,Drama,Thriller",5.7,65,Close
+"Comedy,Crime,Drama,Music",6.4,65,Beats
+"Action,Adventure,Crime,Drama,Sci-Fi,Thriller",5.2,65,See You Yesterday
+"Comedy,Drama",6.1,65,"Yes, God, Yes"
+Documentary,7.7,65,Last Breath
+Comedy,6.1,65,Otherhood
+Documentary,7.8,64,Fantastic Fungi
+Documentary,6.8,64,David Foster: Off the Record
+"Crime,Drama",7.6,64,A Sun
+"Drama,Horror,Mystery,Thriller",5.7,64,Eli
+Drama,5.8,64,American Son
+"Crime,Drama,Thriller",5.9,64,Rust Creek
+"Comedy,Drama,Music",7,64,Fisherman’s Friends
+"Action,Crime",6.6,64,Avengement
+"Crime,Drama",5.4,64,Lying and Stealing
+Drama,5.3,64,Who Would You Take to a Deserted Island?
+"Drama,Horror,Romance",6.5,63,Inhuman Kiss
+"Comedy,Drama,Romance",6.1,63,Holiday in the Wild
+"Drama,Thriller",6.2,63,The Hummingbird Project
+"Action,Biography,Crime,Drama",6.5,63,Master Z: Ip Man Legacy
+"Comedy,Crime,Romance",6.3,63,Furie
+"Drama,Horror,Mystery,Thriller",8.2,63,The Blue Elephant Part 2
+"Documentary,Music",7.4,63,"Everybody's Everything"
+Documentary,7.4,63,Capital in the Twenty-First Century
+"Action,Adventure,Comedy,Sci-Fi",5.2,63,Rim of the World
+"Animation,Drama,Family",7.5,63,Violet Evergarden: Eternity and the Auto Memory Doll
+Comedy,7.8,62,Aziz Ansari: Right Now
+"Horror,Mystery,Thriller,Western",5.6,62,The Wind
+"Action,Drama,Mystery,Thriller",5.7,62,The Operative
+"Adventure,Horror,Mystery,Sci-Fi,Thriller",5.8,62,Sweetheart
+"Action,Thriller",5.6,62,Triple Threat
+"Comedy,Drama",6.3,62,Sword of Trust
+Drama,8,62,Uyare
+"Comedy,Drama",6.5,62,Chopsticks
+"Comedy,Romance",5.6,62,Falling Inn Love
+"Adventure,Comedy,Drama",5.5,61,Wine Country
+"Comedy,Drama",5.9,61,4 latas
+"Comedy,Romance",5.6,61,The Last Summer
+Comedy,7.5,61,Seth Meyers: Lobby Baby
+Drama,7.3,61,"I'm No Longer Here"
+Sport,5.9,61,"Bennett's War"
+Documentary,8.3,61,Dancing with the Birds
+Comedy,7.2,61,Wanda Sykes: Not Normal
+"Drama,Thriller",8.5,61,Oththa Seruppu Size 7
+"Crime,Drama,Mystery,Romance,Thriller",5.9,61,Earthquake Bird
+"Crime,Thriller",6.3,60,The Legacy of the Bones
+"Comedy,Romance",6.3,60,Luka Chuppi
+"Drama,Horror,Mystery,Thriller",5.1,60,Polaroid
+Documentary,7.4,60,This Changes Everything
+"Animation,Adventure,Family",6.6,60,Dragon Quest: Your Story
+"Documentary,Music",6.9,60,Echo in the Canyon
+Thriller,5.8,60,The Wedding Guest
+"History,Sport,Thriller",6.2,60,The Coldest Game
+"Adventure,Comedy,Drama,Fantasy,Romance",5.6,60,The Knight Before Christmas
+"Comedy,Drama,Fantasy,Romance,Sport",7.2,60,Seventeen
+"Action,Crime,Thriller",5.6,60,Inside Man: Most Wanted
+"Drama,Romance",7.1,60,Tune in for Love
+"Action,Drama,Thriller",6.6,60,Romeo Akbar Walter
+"Adventure,Drama,Sci-Fi",4.7,59,IO
+"Comedy,Romance",6.9,59,Straight Up
+"Animation,Action,Adventure,Comedy,Family",7,59,"Rocko's Modern Life: Static Cling"
+Comedy,7,59,Anthony Jeselnik: Fire in the Maternity Ward
+"Crime,Drama,Mystery,Thriller",8.6,59,K. D.
+Comedy,7.4,59,Ronny Chieng: Asian Comedian Destroys America!
+"Drama,Thriller",6.4,59,Mine 9
+"Biography,Drama",7.5,59,The Grizzlies
+"Documentary,Music",7.3,59,ReMastered: The Two Killings of Sam Cooke
+"Documentary,Biography,Drama",6.4,59,Framing John DeLorean
+"Animation,Adventure,Drama,Family,Fantasy,Mystery,Sci-Fi",6.5,59,Children of the Sea
+"Drama,Mystery",6.2,59,A Land Imagined
+"Action,Adventure,Comedy,Sci-Fi",5,58,Iron Sky: The Coming Race
+Drama,5.5,58,Burning Cane
+Thriller,5.8,58,Strange But True
+"Horror,Music,Thriller",5.2,58,We Summon the Darkness
+"Animation,Action,Family,Fantasy",5.7,58,Pokémon: Mewtwo Strikes Back - Evolution
+"Biography,Drama,Sport",7,58,Ride Like a Girl
+"Comedy,Drama,Fantasy",6.3,58,The Man Without Gravity
+Comedy,6.9,58,Deon Cole: Cole Hearted
+"Drama,Romance",7.4,58,"Hello, Love, Goodbye"
+"Biography,Drama,Mystery",6.4,57,Memories of a Teenager
+Documentary,7.4,57,The Black Godfather
+"Action,Crime,Drama,Thriller",5.7,57,Point Blank
+Comedy,7.1,57,Aykut Enişte
+"Comedy,Family,Fantasy,Music,Romance",5.3,57,A Cinderella Story: Christmas Wish
+Comedy,5.9,57,Ready to Mingle
+"Drama,Horror,Mystery",4.6,57,Girl on the Third Floor
+"Horror,Mystery,Thriller",6.3,57,Svaha: The Sixth Finger
+Sci-Fi,4.5,57,3022
+"Animation,Adventure,Comedy,Family,Music",5.9,57,Dog Gone Trouble
+Biography,6.1,57,Kardec
+"Comedy,Drama,Family,Romance",5.2,57,Tall Girl
+"Drama,Romance",6.8,56,Alone/Together
+"Action,Comedy",7.4,56,Mard Ko Dard Nahi Hota
+"Horror,Thriller",6,56,122
+"Documentary,Short",7.4,56,The Irishman: In Conversation
+Documentary,8.8,56,Rubaru Roshni
+Comedy,7.3,56,Jimmy Carr: The Best of Ultimate Gold Greatest Hits
+"Comedy,Drama",6.4,56,School Life
+"Family,Romance",5.4,56,A Christmas Prince: The Royal Baby
+"Documentary,Biography",7.1,56,"El Pepe, A Supreme Life"
+Comedy,5.2,56,Amy Schumer: Growing
+"Drama,Romance",8.1,56,Sillu Karupatti
+"Horror,Thriller",5.6,56,The Last Laugh
+"Drama,Mystery,Thriller",6.1,55,The Same Blood
+"Action,Adventure,Crime,Horror,Thriller",4.9,55,The Silence of the Marsh
+"Action,Adventure,Horror,Sci-Fi,Thriller",3.7,55,Doom: Annihilation
+Biography,8.4,55,Mallesham
+Comedy,6,55,Organize İşler: Sazan Sarmalı
+"Action,Drama,War",5.7,55,Jarhead: Law of Return
+"Drama,Romance",7,55,Dreamy Eyes
+Documentary,7.6,55,The Crystal Calls - Making The Dark Crystal: Age of Resistance
+Comedy,4.4,55,Sextuplets
+Comedy,7.3,55,Gabriel Iglesias: One Show Fits All
+"Horror,Mystery,Thriller",4.9,55,Mercy Black
+Comedy,7.6,55,Nate Bargatze: The Tennessee Kid
+Comedy,7.1,55,Sebastian Maniscalco: Stay Hungry
+"Documentary,Music",6.3,55,Travis Scott: Look Mom I Can Fly
+"Documentary,Short",7.4,55,Fire in Paradise
+"Crime,Drama",6.1,55,The Ruthless
+"Crime,Thriller",4.8,55,Kidnapping Stella
+Comedy,6.9,55,Jeff Dunham: Beside Himself
+"Biography,Drama,Romance",6.6,55,Elisa & Marcela
+"Action,Adventure,Crime,Drama,Horror,Mystery,Thriller",5.2,54,Twin Murders: The Silence of the White City
+Western,5.5,54,Badland
+"Drama,Romance",7.2,54,Happy Old Year
+"Comedy,Drama",7.2,54,The Lift Boy
+"Drama,Romance",5,54,Maria
+Drama,7.3,54,"Kalel, 15"
+"Crime,Thriller",6.4,54,The Watchman
+Comedy,3.9,54,Drunk Parents
+"Documentary,Short",6.5,54,Life Overtakes Me
+Comedy,6.5,54,Iliza Shlesinger: Unveiled
+"Drama,History",6.5,54,#AnneFrank. Parallel Stories
+"Animation,Short,Drama",7.3,54,Sitara: Let Girls Dream
+"Documentary,Biography",7,54,ReMastered: Devil at the Crossroads
+Talk-Show,7.7,54,Oprah Winfrey Presents: When They See Us Now
+Drama,6,54,Juanita
+Documentary,6.5,54,Wonder Boy
+"Documentary,Music",7.3,53,Dolly Parton: Here I Am
+Drama,7.8,53,Hamid
+"Documentary,Biography,Family,History,Sport",7.3,53,Shelby American
+"Action,Crime,Drama,Thriller",4.9,53,Backdraft 2
+Drama,6.9,53,Bulbul Can Sing
+"Animation,Drama,History,War",6.9,53,Funan
+"Action,Horror,Mystery,Sci-Fi,Thriller",4.3,53,Dark Light
+Documentary,6.8,53,Our Godfather
+"Comedy,Drama,Romance",5.7,53,Almost Love
+"Drama,Romance",6.7,53,Dilan 1991
+"Adventure,Crime,Drama,Mystery,Romance,Thriller",6.2,53,Made In China
+"Documentary,Short,Family",6.8,53,All in My Family
+Comedy,6.5,53,Whitney Cummings: Can I Touch It?
+Documentary,7.3,53,Cracked Up: The Darrell Hammond Story
+"Animation,Action,Adventure,Family,Fantasy,Romance",6.1,53,NiNoKuni
+Comedy,7.3,53,Jo Koy: Comin’ In Hot
+Drama,5.7,53,Noblemen
+Comedy,7.6,53,"Colin Quinn: Red State, Blue State"
+"Documentary,Sport",7.4,52,Bethany Hamilton: Unstoppable
+"Comedy,Drama",7,52,Axone
+"Comedy,Drama,Fantasy",7.4,52,Oh! Baby
+"Biography,Drama",5.4,52,J.T. LeRoy
+"Biography,Drama",6.4,52,Walk. Ride. Rodeo.
+Thriller,4.4,52,Secret Obsession
+"Drama,Horror,Mystery,Thriller",4.6,52,Rattlesnake
+"Action,Comedy,Crime",4.8,52,The Hard Way
+Comedy,6,52,Kandasamys The Wedding
+"Action,Thriller",6.8,52,Thambi
+"Animation,Short",6.4,52,Sturgill Simpson Presents Sound & Fury
+Documentary,6.4,52,Out Of The Clear Blue Sky
+"Comedy,Drama,Romance,Sport",4.2,52,The Zoya Factor
+"Action,Drama,History,War",5.3,52,Panipat
+"Documentary,Biography,Sport",6.5,51,Antoine Griezmann: The Making of a Legend
+Drama,7.4,51,Mehandi Circus
+"Documentary,Short,Biography,Drama",6.8,51,A Love Song for Latasha
+"Documentary,Biography",7,51,Merata: How Mum Decolonised the Screen
+"Crime,Drama,Music,Romance",6,51,"Let's Dance"
+Documentary,6.5,51,League of Legends Origins
+Documentary,6.3,51,The Creative Brain
+"Drama,Horror,Mystery",3.5,51,"Jacob's Ladder"
+"Animation,Comedy,Drama",7,51,Alice Júnior
+"Documentary,Comedy",7.2,51,"Ray Romano: Right Here, Around the Corner"
+Drama,7,51,M8 - When Death Rescues Life
+"Animation,Adventure,Comedy,Family",4.7,51,Arctic Dogs
+"Drama,History",6.6,51,This Earth of Mankind
+"Drama,Romance",6.1,51,Cuddle Weather
+"Documentary,Biography,Sport",7.1,51,A Kid from Coney Island
+"Drama,Romance",7,51,Once Again
+Comedy,5.7,51,"Ken Jeong: You Complete Me, Ho"
+"Documentary,Crime,Music",7,51,ReMastered: The Miami Showband Massacre
+Drama,7,51,Miss Virginia
+"Drama,Thriller",4.7,51,Only Mine
+"Animation,Adventure,Comedy",3.8,50,Pets United
+"Documentary,Drama",7.3,50,ReMastered: Massacre at the Stadium
+"Action,Adventure,Comedy,Drama,Family,Mystery",8,50,"Free Rein: Valentine's Day"
+"Documentary,Drama",7.6,50,Brené Brown: The Call to Courage
+"Documentary,Biography,Family,Sport",6.2,50,"The Ronda Rousey Story: Through My Father's Eyes"
+"Crime,Drama",3.5,50,Drive
+"Action,Thriller",5.2,50,Saaho
+"Drama,Music",7.5,50,Sarvam Thaala Mayam
+Documentary,7.9,50,Salam - The First ****** Nobel Laureate
+Documentary,6.7,50,Brave Blue World: Racing to Solve Our Water Crisis
+"Comedy,Romance",4.9,50,"Oh, Ramona!"
+"Comedy,Family",5.5,50,House Arrest
+Documentary,7.1,50,Wandering Stars
+Comedy,5.5,50,"Kevin Hart's Guide to Black History"
+"Comedy,Family",5.2,50,Back of the Net
+"Drama,Family",7.8,50,"Cemara's Family"
+Comedy,5.4,50,Despite Everything
+"Comedy,Romance",7.8,50,"Isa Pa, with Feelings"
+"Comedy,Family",4.9,50,Grand-Daddy Day Care
+"Mystery,Thriller",4.5,49,Deadly Switch
+"Action,Thriller",7.2,49,Uriyadi 2
+"Drama,Thriller,War",4.3,49,The Trap
+"Biography,Drama",5.2,49,Thackeray
+"Documentary,History",6.6,49,Iron Fists and Kung Fu Kicks
+"Documentary,Short,Sport",7,49,"Lorena, Light-footed Woman"
+"Sci-Fi,Thriller",5.5,49,Dead Kids
+"Drama,Western",5.1,49,The Brave
+"Comedy,Romance",6.2,49,In Family I Trust
+Comedy,6,49,"Nikki Glaser: Bangin'"
+"Comedy,Drama",5.3,49,Dolly Kitty and Those Twinkling Stars
+Comedy,5.8,49,Adam Devine: Best Time of Our Lives
+"Drama,Romance",7.1,49,Ave Maryam
+"Comedy,Romance,Sport",5.3,49,Back to School
+"Action,Drama,Thriller",6.2,49,Redemption
+"Comedy,Romance",5.8,49,Motichoor Chaknachoor
+"Comedy,Drama",7.2,48,Guddiyan Patole
+Comedy,6.2,48,Tiffany Haddish: Black Mitzvah
+Drama,7,48,"Sincerely Yours, Dhaka"
+Documentary,6.8,48,Dying to Tell
+Documentary,6.2,48,Calum Von Moger: Unbroken
+Action,6.8,48,HiGH&LOW THE WORST
+"Documentary,Short",5.5,48,Ghosts of Sugar Land
+"Action,Crime,Drama,Thriller",4.5,48,Paradise Beach
+Music,7,48,Mayday Life
+"Comedy,Drama,Romance",6,48,Belmonte
+"Documentary,Music",6.9,48,"ReMastered: The Lion's Share"
+"Comedy,Drama,Family,Romance",4.9,48,Holiday Rush
+"Comedy,Romance",5.3,48,Under the Eiffel Tower
+Animation,8.3,48,A Truthful Mother
+"Drama,Family,Sport",5.1,48,A Second Chance: Rivals!
+"Animation,Adventure,Comedy,Family",5.7,48,Latte and the Magic Waterstone
+"Comedy,Sport",6.2,48,Pegasus
+Drama,4.6,48,Paris Is Us
+Drama,8.1,48,Bhai - Vyakti ki Valli
+"Comedy,Drama",6.8,48,Too Handsome To Handle
+Comedy,7.6,48,What the F* Is Going On?
+"Comedy,Horror",3.8,47,Girls with Balls
+"Drama,Fantasy,Horror,Mystery,Thriller",5.5,47,The 3rd Eye 2
+Drama,7.2,47,Evvarikee Cheppoddu
+Comedy,6.4,47,Simon Amstell: Set Free
+Family,4.4,47,Christmas Break-In
+"Crime,Drama,Mystery,Thriller",5.2,47,Seven
+"Action,Horror,Thriller",4,47,The Car: Road to Revenge
+Music,8.3,47,Hikaru Utada Laughter in the Dark Tour 2018
+Comedy,5.4,47,A Remarkable Tale
+"Action,Crime,Drama,Thriller",6.3,47,Jo Pil-ho: The Dawning Rage
+"Action,Comedy,Family",5,47,Malibu Rescue
+Drama,6.7,47,Justine
+"Crime,Drama,Romance",6.7,47,Brother
+Comedy,6.9,47,Whindersson Nunes: Adult
+"Comedy,Family,Romance",5,46,Santa Girl
+"Comedy,Sport",4.2,46,Benchwarmers 2: Breaking Balls
+"Drama,Romance",6.9,46,Love for Sale 2
+"Animation,Drama,Romance",6.1,46,Bombay Rose
+"Comedy,Family,Fantasy,Musical,Romance",4.6,46,Cinderella Pop
+"Comedy,Drama",7.4,46,Vikruthi
+Horror,4.5,46,The Influence
+"Animation,Short,Action,Adventure,Comedy,Family",5.6,46,LEGO Marvel Spider-Man: Vexed By Venom
+Drama,5.3,46,The World We Make
+Comedy,6.3,46,Mo Gilligan: Momentum
+"Drama,Fantasy,Sport",5.7,46,Full Count
+Drama,7.1,46,Patria
+Comedy,5.4,46,Born Beautiful
+"Short,Drama",6.7,46,The Letter Reader
+"Comedy,Drama",6.3,46,Alelí
+Comedy,5.6,46,The Panti Sisters
+Comedy,3.1,46,How High 2
+"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",7.2,46,True: Grabbleapple Harvest
+Documentary,6.9,46,Parchís: The Documentary
+"Comedy,Romance,Sport",5.2,46,All the Freckles in the World
+Documentary,6.8,46,"I'm Leaving Now"
+Comedy,4.8,46,Mike Epps: Only One Mike
+"Documentary,Short",6.3,46,A Tale of Two Kitchens
+"Mystery,Thriller",5,45,Boi
+"Action,Crime,Thriller",5.8,45,The Girl and The Gun
+"Drama,Mystery",5,45,American Woman
+"Documentary,Drama",6.6,45,Hope Frozen: A Quest to Live Twice
+"Documentary,Biography,Drama",6.5,45,It Takes a Lunatic
+"Comedy,Romance",7.1,45,Sakaling Maging Tayo
+"Drama,Fantasy,Romance,Sci-Fi",6.3,45,Eggnoid
+Comedy,4.8,45,The Little Switzerland
+Drama,7.4,45,Lola Igna
+Drama,5.9,45,15-Aug
+"Drama,Horror,Thriller",5,45,Scarecrow
+"Drama,Romance",6.3,45,Between Maybes
+"Action,Drama,Romance",6,45,Malaal
+"Action,Crime,Drama",3.8,45,Women of Mafia 2
+"Action,Drama",5.6,44,The (Silent) War
+Drama,6.7,44,Upstarts
+Comedy,5.7,44,Wannabe Courageous
+"Adventure,Comedy",6.6,44,My Stupid Boss 2
+"Comedy,Romance",4.4,44,Öldür Beni Sevgilim
+"Comedy,Drama,Romance",4.8,44,Manmadhudu 2
+"Documentary,Short",7.2,44,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie
+Comedy,5.8,44,Tootsies & The Fake
+"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",7.1,44,True: Tricky Treat Day
+Drama,7,44,Thottappan
+"Action,Sci-Fi",4.3,44,Shanghai Fortress
+"Documentary,Music",7,44,Los Tigres del Norte at Folsom Prison
+"Comedy,Family",5.7,44,A Family Reunion Christmas
+Comedy,7.1,44,Franco Escamilla: bienvenido al mundo
+Drama,6.8,44,Mere Pyare Prime Minister
+"Documentary,Adventure,News",7.8,44,SunGanges
+"Drama,Mystery,Thriller",5.4,44,Bypass Road
+"Action,War",2.8,44,Rogue Warfare
+"Documentary,Short,Drama",4.7,43,Mohamed Hussein
+"Comedy,Drama,Romance",6.4,43,Mundina Nildana
+Action,6.3,43,Wira
+"Drama,Horror,Mystery,Thriller",2.8,43,Deadcon
+"Animation,Short,Action,Adventure,Comedy,Family",6.1,43,The Spooky Tale of Captain Underpants Hack-a-ween
+"Drama,Fantasy",5.8,43,Living in Bondage: Breaking Free
+Family,7.2,43,Sethum Aayiram Pon
+"Action,Sci-Fi",2.6,43,Alien Warfare
+"Animation,Adventure,Drama,Family",5.8,43,Spirit Riding Free: Spirit of Christmas
+Comedy,4.4,43,No Place Like Home
+Comedy,5.5,43,Miranda Sings Live... Your Welcome.
+Comedy,6,43,Katherine Ryan: Glitter Room
+"Horror,Romance",5.2,43,Revenge of the Pontianak
+"Comedy,Drama",6,43,A Home with a View
+Comedy,3.4,43,Undercover Brother 2
+Thriller,3.6,43,Deviant Love
+Documentary,2.5,43,Enter the Anime
+"Adventure,Drama",5.4,42,The Body
+"Crime,Drama",5.5,42,Òlòtūré
+"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",8.2,42,True: Happy Hearts Day
+"Action,Drama",6.3,42,Guna 369
+Thriller,4.3,42,Fear Bay
+Crime,6.4,42,Street Flow
+"Drama,Romance",7,42,Si Doel the Movie 2
+Drama,5.5,42,Albert Pinto Ko Gussa Kyun Aata Hai?
+Comedy,5.9,42,Jeff Garlin: Our Man in Chicago
+"Drama,Romance",7.1,42,The Wedding Shaman
+Documentary,7.4,42,Carlos Almaraz: Playing With Fire
+Thriller,4.3,42,Kill Me Twice
+Drama,5.8,42,Keeping the Bees
+"Documentary,Short",6.4,42,Birders
+Action,3.5,42,The Reliant
+Horror,4.8,42,Rakkhosh
+"Comedy,Music",5.2,42,Still Laugh-In: The Stars Celebrate
+Drama,5.4,41,What are the Odds?
+"Action,Crime,Thriller",5,41,One Day: Justice Delivered
+"Documentary,Sport",8.1,41,"River, el Más Grande Siempre"
+Comedy,6,41,Daniel Sosa: Maleducado
+Action,3.1,41,Rogue Warfare: The Hunt
+"Drama,Sci-Fi,Thriller",2.6,41,The App
+"Short,Drama,Family,Fantasy",7.1,41,Baxu and the Giants
+"Documentary,Comedy",6,41,Jack Whitehall: Christmas with my Father
+"Action,Crime,Drama,Fantasy",5.6,41,The 9th Precinct
+"Animation,Adventure,Comedy,Family",3.2,41,Norm of the North: King Sized Adventure
+Comedy,4.4,41,Stunt School
+Comedy,4.2,41,Feo pero Sabroso
+"Short,Comedy,Drama",7.1,41,Aziza
+"Comedy,Drama",5.8,41,Tuna Girl
+Thriller,6.4,41,4th Republic
+"Documentary,Music",7.1,41,The Remix: Hip Hop x Fashion
+"Comedy,Family",5.7,41,Kids on the Block
+Documentary,6.8,41,El Sendero de la Anaconda
+"Documentary,Short",4.3,41,After the Raid
+Comedy,3.9,41,"¡Ay, mi madre!"
+Comedy,6.4,40,"Martin Matte : La vie, la mort... eh la la..!"
+"Crime,Drama,Mystery",4.5,40,Paharganj
+"Action,Comedy",6.7,40,Merry Men 2: Another Mission
+"Animation,Action,Adventure",5.3,40,Chhota Bheem Kung Fu Dhamaka
+Drama,5.6,40,Jada
+Documentary,7.2,40,Alexis Viera: A Story of Surviving
+"Comedy,Horror,Thriller",5.4,40,Red Snow
+Comedy,7.3,40,Ricardo Quevedo: Los amargados somos más
+"Biography,Drama,Sport",6.6,40,Tee Shot: Ariya Jutanugarn
+"Biography,Crime,Drama,Romance",7.1,40,Skin
+Family,5.5,40,Go! The Unforgettable Party
+Comedy,4.8,40,Misfit 2
+"Fantasy,Mystery,Thriller",5.9,40,Candyflip
+Animation,5.5,39,Super Monsters Furever Friends
+"Crime,Drama,Thriller",6.6,39,Saavat
+"Comedy,Drama",7,39,Elevator Baby
+"Comedy,Crime,Drama",4.5,39,Bombairiya
+Comedy,7.3,39,Bonne nuit Blanche
+"Drama,Romance",5.9,39,Dorasaani
+Sport,5.5,39,Penalty
+Romance,6.5,38,Kasanova
+"Action,Sci-Fi",2,38,Cross: Rise of the Villains
+Family,3.3,38,Nothing to Lose - Part 2
+Comedy,6,38,Arsenio Hall: Smart and Classy
+Comedy,3.4,38,90 ML
+"Comedy,Drama,Romance",5.1,38,Freshman Year
+Action,5.2,38,We Are Legends
+Comedy,6.3,38,Mokalik (Mechanic)
+"Comedy,Drama,Family,Musical,Romance",5.9,38,High End Yaariyaan
+Comedy,4.9,38,Park Na-rae: Glamour Warning
+"Comedy,Horror",5.3,38,Uncle Naji in UAE
+Drama,5.7,38,Nimbe
+"Comedy,Romance",6.1,38,The Perfect Picture: Ten Years Later
+"Animation,Adventure,Comedy,Family,Horror,Musical",4.8,37,Super Monsters Save Christmas
+"Drama,Thriller",4.3,37,Aaviri
+"Action,Comedy,Crime,Thriller",4.2,37,The Set Up
+Documentary,6.6,37,Guatemala: Corazón del Mundo Maya
+"Drama,Thriller",6.2,37,Krutant
+"Comedy,Drama",5.5,37,Kalek Shanab
+"Action,Crime,Drama,Thriller",4.4,37,Pranaam
+Comedy,5.1,37,Kaake Da Viyah
+Animation,4.8,37,"Elf Pets: A Fox Cub's Christmas Tale"
+"Documentary,Short",5.2,37,American Factory: A Short Conversation with the Obamas
+Documentary,7.3,37,To Be of Service
+"Comedy,Thriller",5.6,37,The Millions
+"Drama,Thriller",2.7,37,Kolaiyuthir Kaalam
+"Animation,Adventure,Comedy,Family,Horror,Musical",5.8,37,"Super Monsters: Vida's First Halloween"
+Comedy,5.5,37,Fadily Camara: La plus drôle de tes copines
+Comedy,6.8,37,Edoardo Ferrario: Temi Caldi
+"Adventure,Comedy,Drama,Family,Sport",4.9,36,Mi amigo Alexis
+Comedy,5.1,36,Loving is Losing
+"Drama,Romance",5.4,36,Ali and Alia
+"Comedy,Drama",6,36,Bridezilla
+"Animation,Short,Adventure,Comedy,Family,Fantasy,Musical",6.9,36,True: Winter Wishes
+"Comedy,Drama",6.5,36,Your Excellency
+Drama,7.2,36,Love Is War
+Comedy,5.2,36,R. K. Nagar
+"Comedy,Drama,Sport",7.2,36,Sur Sapata
+"Comedy,Drama,Romance",1.8,36,5Gang: A Different Kind of Christmas
+"Comedy,Drama",5.2,36,Wives on Strike: The Revolution
+Comedy,5.9,36,Saverio Raimondo: Il Satiro Parlante
+Documentary,4.4,36,"Hello, Privilege. It's Me, Chelsea"
+Drama,6.5,35,The Bling Lagosians
+"Mystery,Thriller",5.2,35,In Paradox
+Comedy,5.7,35,Francesco De Carlo: Cose di Questo Mondo
+"Animation,Adventure,Comedy,Family,Horror,Musical",6.9,35,Super Monsters Back to School
+Drama,4.5,35,Hot Gimmick: Girl Meets Boy
+Documentary,6.7,34,Ibrahim: A Fate to Define
+Drama,5.1,34,The End
+Documentary,6.2,34,Surviving R. Kelly: The Impact
+"Crime,Drama",5.9,34,Kaagar
+"Animation,Short,Adventure,Drama,Family,Fantasy",3.8,34,Spookley and the Christmas Kittens
+"Comedy,Drama",4.4,33,Luckee
+Comedy,6.6,33,Liss Pereira: Renteniendo Liquidos
+"Crime,Thriller",3.6,32,Sin City
+"Documentary,Short",4.6,31,After Maria
+Comedy,4.9,30,Holy Expectations
+Comedy,4.4,29,Grego Rossello: disculpe las molestias
+"Comedy, Drama",8.6,96,Love on the Spectrum

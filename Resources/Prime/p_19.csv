@@ -1,258 +1,255 @@
-Genres,IMDb,Rotten Tomatoes,Title,Year
-"Mystery,Thriller",6.4,73,Fractured,2019
-"Comedy,Crime,Drama,Music",6.4,65,Beats,2019
-"Comedy,Family",5.5,50,House Arrest,2019
-"Comedy,Family",5.2,50,Back of the Net,2019
-"Action,Drama,Thriller",6.2,49,Redemption,2019
-Drama,5.5,42,Albert Pinto Ko Gussa Kyun Aata Hai?,2019
-"Biography,Crime,Drama,Romance",7.1,40,Skin,2019
-"Horror,Mystery,Thriller",5.7,67,"Child's Play",2019
-"Drama,Sci-Fi,Thriller",5.7,58,The Mandela Effect,2019
-"Crime,Drama",6.2,51,Ms. Purple,2019
-"Biography,Comedy,Drama,Family,Romance",6.6,51,Red Dog,2019
-"Comedy,Drama,Romance",4.4,50,Good Kisser,2019
-"Action,Adventure,Drama,Fantasy,War",4.2,46,The Warrior Queen of Jhansi,2019
-"Animation,Drama,Family,Fantasy,Mystery,Romance",4.3,43,12 Pups of Christmas,2019
-Family,5.9,43,Next Level,2019
-"Comedy,Romance",4.6,42,Christmas Crush,2019
-"Drama,Music,Romance",8,91,Gully Boy,2019
-Drama,7.3,89,Honey Boy,2019
-"Biography,Crime,Drama,History,Thriller",7.2,89,The Report,2019
-"Comedy,Crime,Drama,Mystery,Thriller",7.9,85,Knives Out,2019
-"Comedy,Drama",6.8,85,Brittany Runs a Marathon,2019
-Drama,7.8,85,Invisible Life,2019
-"Documentary,History",7.5,84,One Child Nation,2019
-"Comedy,Drama",6.5,84,Late Night,2019
-"Comedy,Drama,Mystery",6.4,82,Blow the Man Down,2019
-"Drama,Horror,Mystery,Thriller",7.1,80,Midsommar,2019
-"Drama,Fantasy,Horror,Mystery",7.5,80,The Lighthouse,2019
-"Comedy,Drama",7.6,76,The Farewell,2019
-"Action,Drama,Thriller",6.3,75,7500,2019
-Comedy,6.9,75,Good Newwz,2019
-"Documentary,Biography,Music",7.8,75,Chasing Happiness,2019
-"Drama,Romance",6.9,74,Photograph,2019
-"Action,Comedy,Horror,Music",6.2,73,Get Duked!,2019
-"Mystery,Thriller",6.2,73,A Dark Place,2019
-"Action,Thriller",6.1,73,Rambo: Last Blood,2019
-"Animation,Drama,Family,Fantasy,Musical",6.2,72,Pinocchio,2019
-"Action,Adventure,Drama,Romance",6.6,71,The Aeronauts,2019
-"Comedy,Horror,Mystery,Sci-Fi",5.8,71,Vivarium,2019
-"Action,Crime,Drama,Thriller",6.6,70,The Informer,2019
-Drama,7.3,70,The Last Black Man in San Francisco,2019
-"Action,Drama,War",6.8,69,Danger Close: The Battle of Long Tan,2019
-"Horror,Mystery,Sci-Fi,Thriller",8,69,Rewind,2019
-"Comedy,Romance",6.5,68,A Rainy Day in New York,2019
-Drama,6.3,67,The Goldfinch,2019
-"Drama,Mystery,Romance",6.4,66,The Souvenir,2019
-"Action,Drama,Sci-Fi,Thriller",6.1,66,The Blackout,2019
-"Drama,Sci-Fi,Thriller",6.6,65,Light of My Life,2019
-"Biography,Drama,Thriller",5.8,65,Seberg,2019
-"Action,Crime,Thriller",5.9,65,Night Hunter,2019
-"Action,Adventure,Comedy",5.7,65,Jay and Silent Bob Reboot,2019
-"Action,Drama,Thriller",7.9,65,Virus,2019
-"Comedy,Crime,Mystery,Thriller",8.4,64,Agent Sai Srinivasa Athreya,2019
-"Comedy,Drama,Family",6.9,64,Troop Zero,2019
-"Comedy,Drama,Music,Musical,Thriller",6.7,64,Guava Island,2019
-"Action,Drama,History,Thriller,War",7.4,64,Kesari,2019
-"Adventure,Drama,Horror,Thriller",5,63,47 Meters Down: Uncaged,2019
-"Comedy,Drama,Music,Romance",6.3,63,Gloria Bell,2019
-"Crime,Drama,Mystery,Thriller",5.8,62,The Vanishing,2019
-"Crime,Drama,Fantasy,Horror,Mystery,Thriller",6.1,61,"Daniel Isn't Real",2019
-"Action,Crime,Thriller",7.5,61,Jallikattu,2019
-"Action,Biography,Drama,Thriller,War",5.9,61,The Kill Team,2019
-Drama,6.6,61,Blackbird,2019
-Documentary,7.6,61,Never Surrender: A Galaxy Quest Documentary,2019
-Drama,7.4,60,House of Hummingbird,2019
-Documentary,7.1,60,Super Size Me 2: Holy Chicken!,2019
-"Crime,Drama,Mystery,Thriller",5.7,60,A Vigilante,2019
-"Mystery,Romance,Thriller",6.3,60,The Fare,2019
-"Action,Drama,Sport",7,60,Bigil,2019
-"Crime,Drama,Thriller",6.5,60,Back Roads,2019
-"Drama,Family",6.9,59,Storm Boy,2019
-"Action,Crime,Thriller",4.4,59,Escape Plan: The Extractors,2019
-"Action,Drama,Romance",7.4,58,Dear Comrade,2019
-"Documentary,Biography,Music",7.3,58,Mystify: Michael Hutchence,2019
-"Action,Drama",7.3,58,Maharshi,2019
-"Drama,Western",5.9,58,Never Grow Old,2019
-"Drama,Thriller",6.3,57,Low Tide,2019
-"Documentary,Biography,Music",7.6,57,Gordon Lightfoot: If You Could Read My Mind,2019
-"Comedy,Drama,Mystery",6.3,57,Sometimes Always Never,2019
-"Action,Adventure,Drama,History",7.4,57,Sye Raa Narasimha Reddy,2019
-Comedy,7.6,57,Jim Gaffigan: Quality Time,2019
-"Horror,Mystery,Thriller",5.7,57,The Dead Center,2019
-Documentary,7.1,57,Missing 411: The Hunted,2019
-Thriller,4.7,57,The Poison Rose,2019
-Drama,6.4,57,The Kindness of Strangers,2019
-"Comedy,Drama,Thriller",7.2,57,Driving Licence,2019
-"Adventure,Fantasy",4.9,56,Abigail,2019
-"Action,Drama,History,War",6.3,56,15 Minutes of War,2019
-"Action,Comedy,Drama",4.9,56,Bharat,2019
-"Comedy,Drama",5.7,55,Changeland,2019
-Documentary,7.9,55,Andy Murray: Resurfacing,2019
-"Action,Crime,Thriller",4.4,55,Domino,2019
-"Drama,Thriller",5.3,55,The Isle,2019
-"Action,Comedy,Drama,Musical,Romance",7.5,55,Ishq,2019
-"Crime,Thriller",4.1,54,The Fanatic,2019
-"Adventure,Family,Fantasy",6.4,54,The Ash Lad: In Search of the Golden Castle,2019
-Comedy,6.9,54,Ujda Chaman,2019
-Drama,7.4,54,Raatchasi,2019
-Drama,4.9,54,Selah and the Spades,2019
-Documentary,6.9,54,Citizen K,2019
-Documentary,6.9,53,Netflix vs. the World,2019
-"Comedy,Mystery,Thriller",6.2,53,Extracurricular Activities,2019
-"Crime,Drama,Thriller",5.6,53,The Corrupted,2019
-Comedy,7.4,53,Sushi by Biswa Kalyan Rath,2019
-Crime,5.6,53,Once Upon a Time in London,2019
-"Drama,Romance",7.2,53,Chitralahari,2019
-"Crime,Drama,Mystery",5.3,53,Saving Zoë,2019
-Drama,6,52,From the Vine,2019
-Comedy,6.1,52,The Planters,2019
-Comedy,5.6,52,The Wedding Year,2019
-"Adventure,Crime,Drama",5.7,52,The True Adventures of Wolfboy,2019
-Comedy,6.2,52,Frances Ferguson,2019
-"Crime,Drama,Thriller",7.8,52,Magamuni,2019
-"Drama,Romance",3.6,52,Kalank,2019
-"Action,Thriller",6.5,52,Kaappaan,2019
-Action,7.1,52,George Reddy,2019
-"Action,Biography,Drama,History",6.4,52,Manikarnika: The Queen of Jhansi,2019
-"Action,Thriller",6.4,52,Falaknuma Das,2019
-"Animation,Adventure,Family,Fantasy",6.1,51,Birthday Wonderland,2019
-"Adventure,Comedy",5.2,51,I Hate Kids,2019
-"Action,Crime,Thriller",3.6,51,10 Minutes Gone,2019
-Documentary,7.4,51,Fiddler: A Miracle of Miracles,2019
-"Crime,Thriller",5.4,51,100 Days to Live,2019
-"Action,Western",5.3,51,Big Kill,2019
-"Crime,Thriller",6.2,51,American Dreamer,2019
-"Horror,Mystery",4.9,51,The Odds,2019
-Reality-TV,5,51,Kindred Spirits,2019
-"Comedy,Drama",4.8,51,Summer Night,2019
-"Action,Drama,Sci-Fi",6,50,Out of Time,2019
-"Drama,Romance",5.4,50,See You Soon,2019
-"Action,Drama,Sport,Thriller",4.4,50,Trading Paint,2019
-"Documentary,Biography,Sport",6.6,50,Kroos,2019
-"Drama,Thriller",6.2,50,Aadai,2019
-"Comedy,Drama,Sport",5.3,50,Britt-Marie Was Here,2019
-"Animation,Drama,Music",7.1,50,Sound! Euphonium the Movie - Our Promise: A Brand New Day,2019
-Drama,5.6,50,Bottom of the 9th,2019
-Drama,7.3,49,Ardab Mutiyaran,2019
-"Action,Drama,Romance,Thriller",5.6,49,Enai Noki Paayum Thota,2019
-Comedy,6.2,49,F2: Fun and Frustration,2019
-"Action,Adventure,Drama,History",5.5,49,The Climbers,2019
-"Action,Comedy,Drama",5.5,49,Venky Mama,2019
-Comedy,5.6,49,Making Babies,2019
-Drama,6.1,49,A Dog Barking at the Moon,2019
-"Comedy,Drama,Romance",6.5,49,Chandigarh Amritsar Chandigarh,2019
-Comedy,6.8,48,David Cross: Oh Come On,2019
-Thriller,4.6,48,Beneath The Leaves,2019
-"Comedy,Fantasy,Horror",4.8,48,Halloween Party,2019
-"Comedy,Fantasy,Horror,Thriller",3.6,48,Killer Sofa,2019
-"Drama,Horror,Thriller",2.8,48,The Haunting of Sharon Tate,2019
-Documentary,8.3,48,Pain Warriors,2019
-"Action,Comedy,Crime",3,48,Dabangg 3,2019
-"Action,Crime,Thriller",5.7,48,Kadaram Kondan,2019
-Action,6.7,47,Yajamana,2019
-Documentary,7,47,Most Likely to Succeed,2019
-"Drama,War",3.8,47,The Great War,2019
-Documentary,6.4,47,American Tragedy,2019
-Documentary,8.3,47,The Days of Noah Part 1: The Flood,2019
-Comedy,8.4,47,"Steve Trevino: 'Til Death",2019
-"Biography,Drama",5.6,47,N.T.R: Kathanayakudu,2019
-"Adventure,Fantasy",5.3,47,A World Away,2019
-Romance,5.8,46,A Christmas Recipe for Romance,2019
-Documentary,8.2,46,Rapid Response,2019
-Comedy,7.7,46,Chris Porter: A Man From Kansas,2019
-"Documentary,Drama",6.5,46,Cocaine Prison,2019
-Drama,5.8,46,Acquainted,2019
-"Documentary,Biography,History",6.2,46,Third Eye Spies,2019
-"Action,Drama,Horror,Romance,Thriller",4.4,46,Ghost in the Graveyard,2019
-Drama,5.4,46,Anthem of a Teenage Prophet,2019
-"Comedy,Drama,Family,Romance",5.7,45,A Christmas Princess,2019
-Documentary,7.7,45,Hesburgh,2019
-"Drama,Western",4.7,45,Out of Liberty,2019
-"Drama,Sport",6.2,45,Sprinter,2019
-"Drama,Fantasy,Horror,Mystery,Thriller",3.1,45,Apparition,2019
-"Drama,Horror,Thriller",4.4,45,The Cleansing,2019
-Thriller,4.8,45,Safe Inside,2019
-Comedy,7.4,45,Kaafi Filmy,2019
-Comedy,7.4,45,"Tone Bell - Can't Cancel This",2019
-Documentary,7.6,44,"Undercover with the Clerics: Iraq's Secret Sex Trade",2019
-Comedy,6,44,Ninu Veedani Needanu Nene,2019
-"Comedy,Horror",5.4,44,Petromax,2019
-Comedy,5.5,44,"Rock N' Roll Christmas",2019
-Comedy,6.8,44,Howie Mandel Presents Howie Mandel at the Howie Mandel Comedy Club,2019
-Comedy,6.2,44,Alonzo Bodden: Heavy Lightweight,2019
-"Animation,Adventure,Fantasy",5.5,44,Boonie Bears: Blast into the Past,2019
-"Action,Thriller",5.1,44,Mikhael,2019
-"Action,Drama,Romance",3.6,44,Marjaavaan,2019
-Western,4.7,44,Any Bullet Will Do,2019
-Drama,4.6,43,Darling Nikki,2019
-Documentary,7.3,43,The Pollinators,2019
-Action,3.1,43,Atone,2019
-Comedy,6.2,43,Joel Mchale: Live from Pyongyang,2019
-Documentary,4.8,43,Extraordinary: The Seeding,2019
-Documentary,6.4,43,Rolling Stone: Life and Death of Brian Jones,2019
-"Documentary,Biography,History,Music",7.5,43,Melody Makers,2019
-Comedy,7.4,43,Bryan Callen: Complicated Apes,2019
-Thriller,6.7,42,Babru,2019
-"Horror,Sci-Fi",3.3,42,Solar Impact: The Destruction of London,2019
-Documentary,8.6,42,Ostatni ludzie Czarnobyla 2,2019
-"Drama,War",4.5,42,Escape and Evasion,2019
-Thriller,4.9,42,A Stone in the Water,2019
-"Comedy,Horror",4.3,42,Lillith,2019
-Romance,4.5,42,Home for Harvest,2019
-Comedy,5.5,42,Alice Wetterlund: My Mama Is a Human and So Am I,2019
-Documentary,5.6,42,Iliza Shlesinger: Over & Over,2019
-"Comedy,Drama",5.1,42,CRSHD,2019
-Horror,3.2,42,The Haunting of Borley Rectory,2019
-Romance,5.7,42,Snowbound for Christmas,2019
-"Comedy,Mystery",4.8,42,Lost Holiday,2019
-"Comedy,Crime,Drama",,42,99,2019
-Drama,4.7,42,Josie & Jack,2019
-Comedy,6.7,41,Mike E. Winfield: Stepman,2019
-Action,3.3,41,Vinaya Vidheya Rama,2019
-Drama,6.4,41,All In,2019
-Drama,4.7,41,Subira,2019
-Drama,6.4,41,A Promise To Astrid,2019
-"Drama,Horror,Mystery,Thriller",4.2,41,Armageddon Gospels,2019
-"Crime,Drama,Mystery,Romance,Thriller",5.3,41,All Good Things,2019
-"Adventure,Comedy,Family,Fantasy,Romance",4.2,41,Nicole,2019
-,7.6,40,"Barry Brewer: Chicago, I'm Home",2019
-"Comedy,Drama",4.6,40,Ruta Madre,2019
-Horror,3.2,40,Curse of the Blind Dead,2019
-Horror,3,40,One Remains,2019
-,4.9,40,Jill-Michele Meleán: White / Latina,2019
-Romance,3.3,40,Christmas Coupon,2019
-Comedy,5.8,40,#IMomSoHard Live,2019
-"Drama,Horror,Thriller",4.8,40,Ragmork,2019
-"Action,Crime",5.9,40,DSP Dev,2019
-Drama,3.6,40,Becoming Burlesque,2019
-Documentary,7.5,39,Tails of Iceland,2019
-Comedy,7,39,Matt Besser: Pot Humor,2019
-Documentary,6.5,39,The Beer Jesus from America,2019
-Comedy,7.6,39,Jon Reep: Ginger Beard Man,2019
-"Crime,Drama,Mystery,Thriller",6.2,39,Where Sleeping Dogs Lie,2019
-"Action,Crime,Drama,Thriller",6.7,39,Son of a Gun,2019
-"Action,Crime",3.8,38,Narco Soldiers,2019
-Comedy,,38,William Lee Martin: The Nutcracker,2019
-Horror,3.5,38,Tales of Found Footage,2019
-Documentary,6.9,38,The Days of Noah Part 2: Judgment Hour,2019
-"Crime,Drama,Mystery,Romance",5.8,37,Turned Out,2019
-"Comedy,Drama,Romance",3.3,37,A Room Full of Nothing,2019
-Drama,4.8,37,Elodie,2019
-"Comedy,Family,Fantasy",3.9,36,Elfette Saves Christmas,2019
-"Action,Comedy,Drama,Romance,Sport",2.2,36,Student of the Year 2,2019
-Drama,6.6,36,Diamond in the Rough,2019
-Comedy,6.8,36,Marina Franklin: Single Black Female,2019
-"Action,Sci-Fi",2.4,36,Immortal Combat the Code,2019
-Comedy,6.9,35,Elliott Morgan: Holy Shit,2019
-Comedy,6.7,35,William Lee Martin: Standing in the Middle,2019
-"Drama,Thriller",6.8,35,The Dance,2019
-Comedy,3.4,35,La pachanga,2019
-Documentary,4.4,34,Superintelligence: Beyond Human,2019
-"Comedy,Drama",5,34,1/2 New Year,2019
-"Crime,Drama,Thriller",5.2,34,Drastic Measures,2019
-Comedy,4.2,33,La Sucursal,2019
-Comedy,7.2,33,Matt Braunger: Finally Live in Portland,2019
-Drama,4.9,32,Modern Prodigal,2019
-Crime,,17,A risky revenge,2019
-"Drama, Sci-Fi",8,,Modern Love,2019
+Genres,IMDb,Rotten Tomatoes,Title
+"Mystery,Thriller",6.4,73,Fractured
+"Comedy,Crime,Drama,Music",6.4,65,Beats
+"Comedy,Family",5.5,50,House Arrest
+"Comedy,Family",5.2,50,Back of the Net
+"Action,Drama,Thriller",6.2,49,Redemption
+Drama,5.5,42,Albert Pinto Ko Gussa Kyun Aata Hai?
+"Biography,Crime,Drama,Romance",7.1,40,Skin
+"Horror,Mystery,Thriller",5.7,67,"Child's Play"
+"Drama,Sci-Fi,Thriller",5.7,58,The Mandela Effect
+"Crime,Drama",6.2,51,Ms. Purple
+"Biography,Comedy,Drama,Family,Romance",6.6,51,Red Dog
+"Comedy,Drama,Romance",4.4,50,Good Kisser
+"Action,Adventure,Drama,Fantasy,War",4.2,46,The Warrior Queen of Jhansi
+"Animation,Drama,Family,Fantasy,Mystery,Romance",4.3,43,12 Pups of Christmas
+Family,5.9,43,Next Level
+"Comedy,Romance",4.6,42,Christmas Crush
+"Drama,Music,Romance",8,91,Gully Boy
+Drama,7.3,89,Honey Boy
+"Biography,Crime,Drama,History,Thriller",7.2,89,The Report
+"Comedy,Crime,Drama,Mystery,Thriller",7.9,85,Knives Out
+"Comedy,Drama",6.8,85,Brittany Runs a Marathon
+Drama,7.8,85,Invisible Life
+"Documentary,History",7.5,84,One Child Nation
+"Comedy,Drama",6.5,84,Late Night
+"Comedy,Drama,Mystery",6.4,82,Blow the Man Down
+"Drama,Horror,Mystery,Thriller",7.1,80,Midsommar
+"Drama,Fantasy,Horror,Mystery",7.5,80,The Lighthouse
+"Comedy,Drama",7.6,76,The Farewell
+"Action,Drama,Thriller",6.3,75,7500
+Comedy,6.9,75,Good Newwz
+"Documentary,Biography,Music",7.8,75,Chasing Happiness
+"Drama,Romance",6.9,74,Photograph
+"Action,Comedy,Horror,Music",6.2,73,Get Duked!
+"Mystery,Thriller",6.2,73,A Dark Place
+"Action,Thriller",6.1,73,Rambo: Last Blood
+"Animation,Drama,Family,Fantasy,Musical",6.2,72,Pinocchio
+"Action,Adventure,Drama,Romance",6.6,71,The Aeronauts
+"Comedy,Horror,Mystery,Sci-Fi",5.8,71,Vivarium
+"Action,Crime,Drama,Thriller",6.6,70,The Informer
+Drama,7.3,70,The Last Black Man in San Francisco
+"Action,Drama,War",6.8,69,Danger Close: The Battle of Long Tan
+"Horror,Mystery,Sci-Fi,Thriller",8,69,Rewind
+"Comedy,Romance",6.5,68,A Rainy Day in New York
+Drama,6.3,67,The Goldfinch
+"Drama,Mystery,Romance",6.4,66,The Souvenir
+"Action,Drama,Sci-Fi,Thriller",6.1,66,The Blackout
+"Drama,Sci-Fi,Thriller",6.6,65,Light of My Life
+"Biography,Drama,Thriller",5.8,65,Seberg
+"Action,Crime,Thriller",5.9,65,Night Hunter
+"Action,Adventure,Comedy",5.7,65,Jay and Silent Bob Reboot
+"Action,Drama,Thriller",7.9,65,Virus
+"Comedy,Crime,Mystery,Thriller",8.4,64,Agent Sai Srinivasa Athreya
+"Comedy,Drama,Family",6.9,64,Troop Zero
+"Comedy,Drama,Music,Musical,Thriller",6.7,64,Guava Island
+"Action,Drama,History,Thriller,War",7.4,64,Kesari
+"Adventure,Drama,Horror,Thriller",5,63,47 Meters Down: Uncaged
+"Comedy,Drama,Music,Romance",6.3,63,Gloria Bell
+"Crime,Drama,Mystery,Thriller",5.8,62,The Vanishing
+"Crime,Drama,Fantasy,Horror,Mystery,Thriller",6.1,61,"Daniel Isn't Real"
+"Action,Crime,Thriller",7.5,61,Jallikattu
+"Action,Biography,Drama,Thriller,War",5.9,61,The Kill Team
+Drama,6.6,61,Blackbird
+Documentary,7.6,61,Never Surrender: A Galaxy Quest Documentary
+Drama,7.4,60,House of Hummingbird
+Documentary,7.1,60,Super Size Me 2: Holy Chicken!
+"Crime,Drama,Mystery,Thriller",5.7,60,A Vigilante
+"Mystery,Romance,Thriller",6.3,60,The Fare
+"Action,Drama,Sport",7,60,Bigil
+"Crime,Drama,Thriller",6.5,60,Back Roads
+"Drama,Family",6.9,59,Storm Boy
+"Action,Crime,Thriller",4.4,59,Escape Plan: The Extractors
+"Action,Drama,Romance",7.4,58,Dear Comrade
+"Documentary,Biography,Music",7.3,58,Mystify: Michael Hutchence
+"Action,Drama",7.3,58,Maharshi
+"Drama,Western",5.9,58,Never Grow Old
+"Drama,Thriller",6.3,57,Low Tide
+"Documentary,Biography,Music",7.6,57,Gordon Lightfoot: If You Could Read My Mind
+"Comedy,Drama,Mystery",6.3,57,Sometimes Always Never
+"Action,Adventure,Drama,History",7.4,57,Sye Raa Narasimha Reddy
+Comedy,7.6,57,Jim Gaffigan: Quality Time
+"Horror,Mystery,Thriller",5.7,57,The Dead Center
+Documentary,7.1,57,Missing 411: The Hunted
+Thriller,4.7,57,The Poison Rose
+Drama,6.4,57,The Kindness of Strangers
+"Comedy,Drama,Thriller",7.2,57,Driving Licence
+"Adventure,Fantasy",4.9,56,Abigail
+"Action,Drama,History,War",6.3,56,15 Minutes of War
+"Action,Comedy,Drama",4.9,56,Bharat
+"Comedy,Drama",5.7,55,Changeland
+Documentary,7.9,55,Andy Murray: Resurfacing
+"Action,Crime,Thriller",4.4,55,Domino
+"Drama,Thriller",5.3,55,The Isle
+"Action,Comedy,Drama,Musical,Romance",7.5,55,Ishq
+"Crime,Thriller",4.1,54,The Fanatic
+"Adventure,Family,Fantasy",6.4,54,The Ash Lad: In Search of the Golden Castle
+Comedy,6.9,54,Ujda Chaman
+Drama,7.4,54,Raatchasi
+Drama,4.9,54,Selah and the Spades
+Documentary,6.9,54,Citizen K
+Documentary,6.9,53,Netflix vs. the World
+"Comedy,Mystery,Thriller",6.2,53,Extracurricular Activities
+"Crime,Drama,Thriller",5.6,53,The Corrupted
+Comedy,7.4,53,Sushi by Biswa Kalyan Rath
+Crime,5.6,53,Once Upon a Time in London
+"Drama,Romance",7.2,53,Chitralahari
+"Crime,Drama,Mystery",5.3,53,Saving Zoë
+Drama,6,52,From the Vine
+Comedy,6.1,52,The Planters
+Comedy,5.6,52,The Wedding Year
+"Adventure,Crime,Drama",5.7,52,The True Adventures of Wolfboy
+Comedy,6.2,52,Frances Ferguson
+"Crime,Drama,Thriller",7.8,52,Magamuni
+"Drama,Romance",3.6,52,Kalank
+"Action,Thriller",6.5,52,Kaappaan
+Action,7.1,52,George Reddy
+"Action,Biography,Drama,History",6.4,52,Manikarnika: The Queen of Jhansi
+"Action,Thriller",6.4,52,Falaknuma Das
+"Animation,Adventure,Family,Fantasy",6.1,51,Birthday Wonderland
+"Adventure,Comedy",5.2,51,I Hate Kids
+"Action,Crime,Thriller",3.6,51,10 Minutes Gone
+Documentary,7.4,51,Fiddler: A Miracle of Miracles
+"Crime,Thriller",5.4,51,100 Days to Live
+"Action,Western",5.3,51,Big Kill
+"Crime,Thriller",6.2,51,American Dreamer
+"Horror,Mystery",4.9,51,The Odds
+Reality-TV,5,51,Kindred Spirits
+"Comedy,Drama",4.8,51,Summer Night
+"Action,Drama,Sci-Fi",6,50,Out of Time
+"Drama,Romance",5.4,50,See You Soon
+"Action,Drama,Sport,Thriller",4.4,50,Trading Paint
+"Documentary,Biography,Sport",6.6,50,Kroos
+"Drama,Thriller",6.2,50,Aadai
+"Comedy,Drama,Sport",5.3,50,Britt-Marie Was Here
+"Animation,Drama,Music",7.1,50,Sound! Euphonium the Movie - Our Promise: A Brand New Day
+Drama,5.6,50,Bottom of the 9th
+Drama,7.3,49,Ardab Mutiyaran
+"Action,Drama,Romance,Thriller",5.6,49,Enai Noki Paayum Thota
+Comedy,6.2,49,F2: Fun and Frustration
+"Action,Adventure,Drama,History",5.5,49,The Climbers
+"Action,Comedy,Drama",5.5,49,Venky Mama
+Comedy,5.6,49,Making Babies
+Drama,6.1,49,A Dog Barking at the Moon
+"Comedy,Drama,Romance",6.5,49,Chandigarh Amritsar Chandigarh
+Comedy,6.8,48,David Cross: Oh Come On
+Thriller,4.6,48,Beneath The Leaves
+"Comedy,Fantasy,Horror",4.8,48,Halloween Party
+"Comedy,Fantasy,Horror,Thriller",3.6,48,Killer Sofa
+"Drama,Horror,Thriller",2.8,48,The Haunting of Sharon Tate
+Documentary,8.3,48,Pain Warriors
+"Action,Comedy,Crime",3,48,Dabangg 3
+"Action,Crime,Thriller",5.7,48,Kadaram Kondan
+Action,6.7,47,Yajamana
+Documentary,7,47,Most Likely to Succeed
+"Drama,War",3.8,47,The Great War
+Documentary,6.4,47,American Tragedy
+Documentary,8.3,47,The Days of Noah Part 1: The Flood
+Comedy,8.4,47,"Steve Trevino: 'Til Death"
+"Biography,Drama",5.6,47,N.T.R: Kathanayakudu
+"Adventure,Fantasy",5.3,47,A World Away
+Romance,5.8,46,A Christmas Recipe for Romance
+Documentary,8.2,46,Rapid Response
+Comedy,7.7,46,Chris Porter: A Man From Kansas
+"Documentary,Drama",6.5,46,Cocaine Prison
+Drama,5.8,46,Acquainted
+"Documentary,Biography,History",6.2,46,Third Eye Spies
+"Action,Drama,Horror,Romance,Thriller",4.4,46,Ghost in the Graveyard
+Drama,5.4,46,Anthem of a Teenage Prophet
+"Comedy,Drama,Family,Romance",5.7,45,A Christmas Princess
+Documentary,7.7,45,Hesburgh
+"Drama,Western",4.7,45,Out of Liberty
+"Drama,Sport",6.2,45,Sprinter
+"Drama,Fantasy,Horror,Mystery,Thriller",3.1,45,Apparition
+"Drama,Horror,Thriller",4.4,45,The Cleansing
+Thriller,4.8,45,Safe Inside
+Comedy,7.4,45,Kaafi Filmy
+Comedy,7.4,45,"Tone Bell - Can't Cancel This"
+Documentary,7.6,44,"Undercover with the Clerics: Iraq's Secret Sex Trade"
+Comedy,6,44,Ninu Veedani Needanu Nene
+"Comedy,Horror",5.4,44,Petromax
+Comedy,5.5,44,"Rock N' Roll Christmas"
+Comedy,6.8,44,Howie Mandel Presents Howie Mandel at the Howie Mandel Comedy Club
+Comedy,6.2,44,Alonzo Bodden: Heavy Lightweight
+"Animation,Adventure,Fantasy",5.5,44,Boonie Bears: Blast into the Past
+"Action,Thriller",5.1,44,Mikhael
+"Action,Drama,Romance",3.6,44,Marjaavaan
+Western,4.7,44,Any Bullet Will Do
+Drama,4.6,43,Darling Nikki
+Documentary,7.3,43,The Pollinators
+Action,3.1,43,Atone
+Comedy,6.2,43,Joel Mchale: Live from Pyongyang
+Documentary,4.8,43,Extraordinary: The Seeding
+Documentary,6.4,43,Rolling Stone: Life and Death of Brian Jones
+"Documentary,Biography,History,Music",7.5,43,Melody Makers
+Comedy,7.4,43,Bryan Callen: Complicated Apes
+Thriller,6.7,42,Babru
+"Horror,Sci-Fi",3.3,42,Solar Impact: The Destruction of London
+Documentary,8.6,42,Ostatni ludzie Czarnobyla 2
+"Drama,War",4.5,42,Escape and Evasion
+Thriller,4.9,42,A Stone in the Water
+"Comedy,Horror",4.3,42,Lillith
+Romance,4.5,42,Home for Harvest
+Comedy,5.5,42,Alice Wetterlund: My Mama Is a Human and So Am I
+Documentary,5.6,42,Iliza Shlesinger: Over & Over
+"Comedy,Drama",5.1,42,CRSHD
+Horror,3.2,42,The Haunting of Borley Rectory
+Romance,5.7,42,Snowbound for Christmas
+"Comedy,Mystery",4.8,42,Lost Holiday
+Drama,4.7,42,Josie & Jack
+Comedy,6.7,41,Mike E. Winfield: Stepman
+Action,3.3,41,Vinaya Vidheya Rama
+Drama,6.4,41,All In
+Drama,4.7,41,Subira
+Drama,6.4,41,A Promise To Astrid
+"Drama,Horror,Mystery,Thriller",4.2,41,Armageddon Gospels
+"Crime,Drama,Mystery,Romance,Thriller",5.3,41,All Good Things
+"Adventure,Comedy,Family,Fantasy,Romance",4.2,41,Nicole
+Documentary,7.6,40,"Barry Brewer: Chicago, I'm Home"
+"Comedy,Drama",4.6,40,Ruta Madre
+Horror,3.2,40,Curse of the Blind Dead
+Horror,3,40,One Remains
+Documentary,4.9,40,Jill-Michele Meleán: White / Latina
+Romance,3.3,40,Christmas Coupon
+Comedy,5.8,40,#IMomSoHard Live
+"Drama,Horror,Thriller",4.8,40,Ragmork
+"Action,Crime",5.9,40,DSP Dev
+Drama,3.6,40,Becoming Burlesque
+Documentary,7.5,39,Tails of Iceland
+Comedy,7,39,Matt Besser: Pot Humor
+Documentary,6.5,39,The Beer Jesus from America
+Comedy,7.6,39,Jon Reep: Ginger Beard Man
+"Crime,Drama,Mystery,Thriller",6.2,39,Where Sleeping Dogs Lie
+"Action,Crime,Drama,Thriller",6.7,39,Son of a Gun
+"Action,Crime",3.8,38,Narco Soldiers
+Horror,3.5,38,Tales of Found Footage
+Documentary,6.9,38,The Days of Noah Part 2: Judgment Hour
+"Crime,Drama,Mystery,Romance",5.8,37,Turned Out
+"Comedy,Drama,Romance",3.3,37,A Room Full of Nothing
+Drama,4.8,37,Elodie
+"Comedy,Family,Fantasy",3.9,36,Elfette Saves Christmas
+"Action,Comedy,Drama,Romance,Sport",2.2,36,Student of the Year 2
+Drama,6.6,36,Diamond in the Rough
+Comedy,6.8,36,Marina Franklin: Single Black Female
+"Action,Sci-Fi",2.4,36,Immortal Combat the Code
+Comedy,6.9,35,Elliott Morgan: Holy Shit
+Comedy,6.7,35,William Lee Martin: Standing in the Middle
+"Drama,Thriller",6.8,35,The Dance
+Comedy,3.4,35,La pachanga
+Documentary,4.4,34,Superintelligence: Beyond Human
+"Comedy,Drama",5,34,1/2 New Year
+"Crime,Drama,Thriller",5.2,34,Drastic Measures
+Comedy,4.2,33,La Sucursal
+Comedy,7.2,33,Matt Braunger: Finally Live in Portland
+Drama,4.9,32,Modern Prodigal
+"Drama, Sci-Fi",8,59,Modern Love

@@ -1,72 +1,63 @@
-Disney+,Genres,IMDb,Rotten Tomatoes,Title,Year
-true,"Adventure,Comedy,Family,Sci-Fi",5.6,51,Sky High,2020
-true,"Animation,Adventure,Comedy,Family,Fantasy,Music",8.1,89,Soul,2020
-true,"Biography,Drama,History,Musical",8.4,81,Hamilton,2020
-true,"Animation,Adventure,Comedy,Family,Fantasy",7.4,80,Onward,2020
-true,"Adventure,Drama,Fantasy,Music",5.7,79,Black Is King,2020
-true,"Action,Adventure,Crime,Drama,Fantasy,Sci-Fi",6.2,74,Stargirl,2020
-true,"Adventure,Comedy,Drama,Family,Fantasy",6.1,73,Timmy Failure: Mistakes Were Made,2020
-true,"Adventure,Comedy,Drama,Family,Fantasy",6.6,67,The One and Only Ivan,2020
-true,"Documentary,Drama,Music",8.4,64,Folklore: The Long Pond Studio Sessions,2020
-true,"Animation,Action,Adventure,Comedy,Family,Fantasy,Musical,Sci-Fi,Thriller",7.2,63,Phineas and Ferb: The Movie: Candace Against the Universe,2020
-true,"Comedy,Drama,Family,Fantasy",6.1,63,Godmothered,2020
-true,"Animation,Action,Adventure,Comedy,Family,Sci-Fi",6.4,61,The Lego Star Wars Holiday Special,2020
-true,"Biography,Drama,Sport",6.8,61,Safety,2020
-true,"Animation,Short,Adventure,Comedy,Family,Fantasy",6.9,61,Once Upon a Snowman,2020
-true,"Animation,Action,Adventure,Family,Fantasy,Romance",7.7,60,"Miraculous World: New York, United HeroeZ",2020
-true,"Action,Adventure,Comedy,Family,Fantasy",4.9,60,Secret Society of Second Born Royals,2020
-true,"Adventure,Family,Fantasy,Sci-Fi",4.2,60,Artemis Fowl,2020
-true,"Drama,Music",7.5,60,Clouds,2020
-true,"Comedy,Family,Fantasy",6.4,59,Magic Camp,2020
-true,"Animation,Short,Comedy,Drama,Family",7.4,58,Burrow,2020
-true,"Drama,Family",6.4,58,Black Beauty,2020
-true,"Comedy,Musical,Romance",6,57,Z-O-M-B-I-E-S 2,2020
-true,"Animation,Short,Comedy,Drama,Family,Fantasy,Romance",7.5,57,Out,2020
-true,"Animation,Short,Adventure,Drama,Family,Mystery",6.8,57,Loop,2020
-true,"Family,Fantasy",5.3,55,Upside-Down Magic,2020
-true,"Crime,Drama,Thriller",7.2,54,Elephant,2020
-true,Documentary,7.3,54,The Real Right Stuff,2020
-true,"Animation,Short,Adventure,Comedy,Family,Fantasy",6.8,51,Lamp Life,2020
-true,Documentary,7.9,49,Jane Goodall: The Hope,2020
-true,"Animation,Short,Comedy,Family,Fantasy",7.2,48,Forky Asks a Question: What Is Cheese?,2020
-true,Documentary,6.9,48,Lost on Everest,2020
-true,Documentary,7,48,Mars: One Day on the Red Planet,2020
-true,Documentary,6.1,47,Back To The Titanic,2020
-true,"Animation,Short,Comedy,Family,Fantasy",6.9,47,Forky Asks a Question: What is Reading?,2020
-true,"Animation,Short",5.8,46,Myth: A Frozen Tale,2020
-true,"Documentary,Adventure,Family",7.4,45,In the Footsteps of Elephant,2020
-true,"Music,Musical",7.1,45,A Celebration of the Music from Coco,2020
-true,"Comedy,Drama,Musical",5.7,45,High School Musical: The Musical: The Holiday Special,2020
-true,"Animation,Short,Comedy,Family,Romance",,45,Playdate with Destiny,2020
-true,"Animation,Adventure,Comedy,Family",3.6,45,"Dory's Reef Cam",2020
-true,Documentary,6.9,44,Lost Temple of The Inca,2020
-true,"Family,Music,Musical",6,43,The Disney Holiday Singalong,2020
-true,Documentary,6.9,42,Expedition Everest,2020
-true,"Animation,Short,Family",7.6,42,From Our Family to Yours,2020
-true,Documentary,7.1,42,Diving with Dolphins,2020
-true,"Documentary,Short",7.4,42,Petra: Secrets of the Ancient Builders,2020
-true,"Documentary,History",7.6,42,Surviving the Mount St. Helens Disaster,2020
-true,Documentary,,41,Secrets of the Bull Shark,2020
-true,Documentary,6.8,41,The Last Ice,2020
-true,"Documentary,Talk-Show",6.4,41,Hamilton: History Has Its Eyes On You,2020
-true,Documentary,6.8,41,The Hidden Kingdoms of China,2020
-true,Documentary,5.4,40,Buried Truth of the Maya,2020
-true,Documentary,,40,Shark vs. Surfer,2020
-true,Documentary,7.7,38,Born Wild: The Next Generation,2020
-true,Documentary,6.2,38,Being the Queen,2020
-true,"Documentary,Short",5.9,37,The Undefeated Presents: Hamilton In-Depth,2020
-true,"Documentary,Family",6.9,37,Penguins: Life on the Edge,2020
-true,Documentary,,37,Wild Portugal,2020
-true,"Documentary,Music",6.9,37,Disney My Music Story: Perfume,2020
-true,Documentary,5.2,35,Shark vs. Whale,2020
-true,Documentary,5.6,35,Shark Attack Investigation: The Paige Winter Story,2020
-true,,6.2,35,Disney Holiday Magic Quest,2020
-true,"Documentary,Short",7.8,35,"India's Wild Leopards",2020
-true,"Comedy,Family,Musical",5.3,33,Disney Channel Halloween House Party,2020
-true,Musical,3.9,32,"Challenge Accepted! Disney Channel's Epic Holiday Showdown",2020
-true,Documentary,6.5,31,Sharks of the Bermuda Triangle,2020
-true,"Game-Show,Reality-TV",,16,Sharkcano,2020
-true,"Animation,Adventure,Comedy,Family,Fantasy",,14,Texas Storm Squad,2020
-true,Reality-TV,,14,What the Shark?,2020
-true,"Crime,Reality-TV",,14,Most Wanted Sharks,2020
-true,Animation,,13,Doc McStuffins: The Doc Is In,2020
+Genres,IMDb,Rotten Tomatoes,Title
+"Adventure,Comedy,Family,Sci-Fi",5.6,51,Sky High
+"Animation,Adventure,Comedy,Family,Fantasy,Music",8.1,89,Soul
+"Biography,Drama,History,Musical",8.4,81,Hamilton
+"Animation,Adventure,Comedy,Family,Fantasy",7.4,80,Onward
+"Adventure,Drama,Fantasy,Music",5.7,79,Black Is King
+"Action,Adventure,Crime,Drama,Fantasy,Sci-Fi",6.2,74,Stargirl
+"Adventure,Comedy,Drama,Family,Fantasy",6.1,73,Timmy Failure: Mistakes Were Made
+"Adventure,Comedy,Drama,Family,Fantasy",6.6,67,The One and Only Ivan
+"Documentary,Drama,Music",8.4,64,Folklore: The Long Pond Studio Sessions
+"Animation,Action,Adventure,Comedy,Family,Fantasy,Musical,Sci-Fi,Thriller",7.2,63,Phineas and Ferb: The Movie: Candace Against the Universe
+"Comedy,Drama,Family,Fantasy",6.1,63,Godmothered
+"Animation,Action,Adventure,Comedy,Family,Sci-Fi",6.4,61,The Lego Star Wars Holiday Special
+"Biography,Drama,Sport",6.8,61,Safety
+"Animation,Short,Adventure,Comedy,Family,Fantasy",6.9,61,Once Upon a Snowman
+"Animation,Action,Adventure,Family,Fantasy,Romance",7.7,60,"Miraculous World: New York, United HeroeZ"
+"Action,Adventure,Comedy,Family,Fantasy",4.9,60,Secret Society of Second Born Royals
+"Adventure,Family,Fantasy,Sci-Fi",4.2,60,Artemis Fowl
+"Drama,Music",7.5,60,Clouds
+"Comedy,Family,Fantasy",6.4,59,Magic Camp
+"Animation,Short,Comedy,Drama,Family",7.4,58,Burrow
+"Drama,Family",6.4,58,Black Beauty
+"Comedy,Musical,Romance",6,57,Z-O-M-B-I-E-S 2
+"Animation,Short,Comedy,Drama,Family,Fantasy,Romance",7.5,57,Out
+"Animation,Short,Adventure,Drama,Family,Mystery",6.8,57,Loop
+"Family,Fantasy",5.3,55,Upside-Down Magic
+"Crime,Drama,Thriller",7.2,54,Elephant
+Documentary,7.3,54,The Real Right Stuff
+"Animation,Short,Adventure,Comedy,Family,Fantasy",6.8,51,Lamp Life
+Documentary,7.9,49,Jane Goodall: The Hope
+"Animation,Short,Comedy,Family,Fantasy",7.2,48,Forky Asks a Question: What Is Cheese?
+Documentary,6.9,48,Lost on Everest
+Documentary,7,48,Mars: One Day on the Red Planet
+Documentary,6.1,47,Back To The Titanic
+"Animation,Short,Comedy,Family,Fantasy",6.9,47,Forky Asks a Question: What is Reading?
+"Animation,Short",5.8,46,Myth: A Frozen Tale
+"Documentary,Adventure,Family",7.4,45,In the Footsteps of Elephant
+"Music,Musical",7.1,45,A Celebration of the Music from Coco
+"Comedy,Drama,Musical",5.7,45,High School Musical: The Musical: The Holiday Special
+"Animation,Adventure,Comedy,Family",3.6,45,"Dory's Reef Cam"
+Documentary,6.9,44,Lost Temple of The Inca
+"Family,Music,Musical",6,43,The Disney Holiday Singalong
+Documentary,6.9,42,Expedition Everest
+"Animation,Short,Family",7.6,42,From Our Family to Yours
+Documentary,7.1,42,Diving with Dolphins
+"Documentary,Short",7.4,42,Petra: Secrets of the Ancient Builders
+"Documentary,History",7.6,42,Surviving the Mount St. Helens Disaster
+Documentary,6.8,41,The Last Ice
+"Documentary,Talk-Show",6.4,41,Hamilton: History Has Its Eyes On You
+Documentary,6.8,41,The Hidden Kingdoms of China
+Documentary,5.4,40,Buried Truth of the Maya
+Documentary,7.7,38,Born Wild: The Next Generation
+Documentary,6.2,38,Being the Queen
+"Documentary,Short",5.9,37,The Undefeated Presents: Hamilton In-Depth
+"Documentary,Family",6.9,37,Penguins: Life on the Edge
+"Documentary,Music",6.9,37,Disney My Music Story: Perfume
+Documentary,5.2,35,Shark vs. Whale
+Documentary,5.6,35,Shark Attack Investigation: The Paige Winter Story
+Documentary,6.2,35,Disney Holiday Magic Quest
+"Documentary,Short",7.8,35,"India's Wild Leopards"
+"Comedy,Family,Musical",5.3,33,Disney Channel Halloween House Party
+Musical,3.9,32,"Challenge Accepted! Disney Channel's Epic Holiday Showdown"
+Documentary,6.5,31,Sharks of the Bermuda Triangle

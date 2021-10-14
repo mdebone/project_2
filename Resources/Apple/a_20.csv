@@ -1,13 +1,11 @@
-Apple,Genres,IMDb,Rotten Tomatoes,Rotten Tomatoes	,Title,Year
-true,"Comedy, Drama, Sport",8.8,,95,Ted Lasso,2020
-true,Comedy,5.5,24,,The Stand,2020
-true,"Comedy, Drama",7.4,82,,Home Movie: The Princess Bride,2020
-true,Drama,7.9,89,,Defending Jacob,2020
-true,Drama,7.2,80,,Little Voice,2020
-true,Mystery thriller,7.5,82,,Home Before Dark,2020
-true,History,7.9,85,,For All Mankind,2020
-true,Drama,7.7,94,,Trying,2020
-true,Comedy,7.5,78,,Little America,2020
-true,Animation,6.8,78,,Central Park,2020
-true,Comedy,7.7,85,,Mythic Quest,2020
-true,LGBTQ,7.4,100,,Visible: Out on Television,2020
+Genres,IMDb,Rotten Tomatoes,Title
+Drama,7.9,89,Defending Jacob
+Drama,7.2,80,Little Voice
+Mystery thriller,7.5,82,Home Before Dark
+History,7.9,85,For All Mankind
+Drama,7.7,94,Trying
+Comedy,7.5,78,Little America
+Animation,6.8,78,Central Park
+Comedy,7.7,85,Mythic Quest
+LGBTQ,7.4,100,Visible: Out on Television
+Comedy,8.8,95,Ted Lasso

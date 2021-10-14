@@ -1,33 +1,19 @@
-Genres,HBO,IMDb,Rotten Tomatoes,Title,Year
-Drama,true,7.9,82,The Outsider,2020
-Drama,true,8.2,73,I Know This Much Is True,2020
-Drama,true,7.3,86,The Plot Against America,2020
-Drama,true,7.1,92,Legendary,2020
-Drama,true,7.2,88,McMillion$,2020
-Drama,true,8,100,"We're Here",2020
-Drama,true,7.2,80,Perry Mason,2020
-Drama,true,7.4,59,Love Life,2020
-Drama,true,6.3,82,RUN,2020
-Drama,true,8.2,90,The New Pope,2020
-Drama,true,6.4,66,Avenue 5,2020
-Drama,true,8.3,88,Looney Tunes Cartoons,2020
-Drama,true,7.2,94,"Atlanta's Missing and Murdered: The Lost Children",2020
-Drama,true,6.3,96,Betty,2020
-Drama,true,7.8,80,The Not Too Late Show with Elmo,2020
-Drama,true,6.1,90,Katy Keene,2020
-Drama,true,6.2,,Hard,2020
-Drama,true,8.2,,Keep Your Hands Off Eizouken!,2020
-Drama,true,6.6,80,Trigonometry,2020
-Drama,true,6.7,,In/Spectre,2020
-Drama,true,6,83,Craftopia,2020
-Drama,true,6,,Todxs Nos,2020
-"Comedy, Drama",true,7.2,,Stargirl,2020
-"Drama, Mystery",true,7.1,,The Flight Attendant,2020
-"Action, Crime, Drama, Western",true,7.5,,Star Trek: Picard,2020
-"Comedy, Drama",true,7.5,,Raised by Wolves,2020
-"Documentary, Crime",true,7.4,,The Undoing,2020
-"Drama, Mystery, Sci-Fi",true,7.1,,Shadowplay,2020
-"Drama, Fantasy, Sci-Fi, Thriller",true,6.9,,Snowpiercer,2020
-"Action, Drama, Mystery, Sci-Fi",true,7.1,,Lovecraft Country,2020
-"Crime, Mystery, Thriller",true,7.7,,The Outsider,2020
-"Biography, Crime, Drama",true,8.1,,I May Destroy You,2020
+Genres,HBO,IMDb,Rotten Tomatoes,Title,_id
+Crime,true,7.9,82,The Outsider,6167a31d8a2fde8299a3937e
+Drama,true,8.2,73,I Know This Much Is True,6167a31d8a2fde8299a39395
+Drama,true,7.3,86,The Plot Against America,6167a31d8a2fde8299a393a7
+Reality,true,7.1,92,Legendary,6167a31d8a2fde8299a393b0
+Documentary,true,7.2,88,McMillion$,6167a31d8a2fde8299a393b1
+Reality,true,8,100,"We're Here",6167a31d8a2fde8299a393b2
+Crime,true,7.2,80,Perry Mason,6167a31d8a2fde8299a393b3
+Comedy,true,7.4,59,Love Life,6167a31d8a2fde8299a393b4
+Mystery,true,6.3,82,RUN,6167a31d8a2fde8299a393bc
+Drama,true,8.2,90,The New Pope,6167a31d8a2fde8299a393bd
+Comedy,true,6.4,66,Avenue 5,6167a31d8a2fde8299a393bf
+Animation,true,8.3,88,Looney Tunes Cartoons,6167a31d8a2fde8299a393c0
+Documentary,true,7.2,94,"Atlanta's Missing and Murdered: The Lost Children",6167a31d8a2fde8299a393cb
+Drama,true,7.1,96,Lovecraft Country,6167a31d8a2fde8299a393d3
+Comedy,true,7.8,80,The Not Too Late Show with Elmo,6167a31d8a2fde8299a393d9
+Comedy,true,6.1,90,Katy Keene,6167a31d8a2fde8299a393e6
+Comedy,true,6.6,80,Trigonometry,6167a31d8a2fde8299a393ee
+Drama,true,6,83,Craftopia,6167a31d8a2fde8299a393ef

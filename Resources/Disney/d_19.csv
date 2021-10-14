@@ -1,51 +1,48 @@
-Disney+,Genres,IMDb,Rotten Tomatoes,Title,Year
-true,"Biography,Drama,Western",5.9,62,The Kid,2019
-true,"Drama,Music",6.1,60,Teen Spirit,2019
-true,"Action,Crime,Drama,Thriller",5.4,50,The Flood,2019
-true,"Animation,Drama,Family,Fantasy,Musical",6.2,72,Pinocchio,2019
-true,"Action,Adventure,Drama,Sci-Fi",8.4,90,Avengers: Endgame,2019
-true,"Animation,Adventure,Comedy,Family,Fantasy",7.7,82,Toy Story 4,2019
-true,"Action,Adventure,Sci-Fi",6.8,81,Captain Marvel,2019
-true,"Action,Adventure,Fantasy,Sci-Fi",6.5,78,Star Wars: The Rise of Skywalker,2019
-true,"Animation,Adventure,Comedy,Family,Fantasy,Musical",6.8,78,Frozen II,2019
-true,"Adventure,Biography,Drama,Family,History",8,76,Togo,2019
-true,"Adventure,Family,Fantasy",6.6,76,Maleficent: Mistress of Evil,2019
-true,"Action,Adventure,Drama,Family,Musical,Thriller",6.6,67,Descendants 3,2019
-true,"Action,Adventure,Family,Fantasy",6,64,The Kid Who Would Be King,2019
-true,"Animation,Short,Drama,Family",8,64,Kitbull,2019
-true,"Animation,Short,Drama,Family,Fantasy",7.3,60,Float,2019
-true,"Animation,Short,Comedy,Family",6.5,58,Purl,2019
-true,"Crime,Drama",6.7,56,Smash and Grab,2019
-true,"Documentary,Family",7.1,56,Penguins,2019
-true,"Documentary,History",7.6,53,Apollo: Missions to the Moon,2019
-true,"Family,Fantasy,Musical,Romance",5.6,53,The Little Mermaid Live!,2019
-true,Documentary,7.4,52,Into the Grand Canyon,2019
-true,"Animation,Short,Comedy,Family,Fantasy",7.1,51,Forky Asks a Question: What Is a Friend?,2019
-true,"Documentary,Short",6.8,50,Marvel Studios: Expanding the Universe,2019
-true,"Documentary,History",7.2,49,Expedition Amelia,2019
-true,"Animation,Short,Comedy,Family,Fantasy",7.4,49,Forky Asks a Question: What Is Love?,2019
-true,Documentary,7.2,49,High School Musical: The Musical: The Series: The Special,2019
-true,"Animation,Short,Comedy,Family,Fantasy",6.4,48,Forky Asks a Question: What Is Money?,2019
-true,"Animation,Short,Comedy,Family,Fantasy",6.8,48,Forky Asks a Question: What Is Time?,2019
-true,"Animation,Short,Action,Adventure,Family",4.9,47,Marvel Rising: Chasing Ghosts,2019
-true,"Animation,Short,Comedy,Family,Fantasy",6.5,47,Forky Asks a Question: What Is Art?,2019
-true,"Animation,Short,Comedy,Family,Fantasy",6.6,47,Forky Asks a Question: What Is a Computer?,2019
-true,"Animation,Short,Action,Adventure,Sci-Fi",4.4,47,Marvel Rising: Heart of Iron,2019
-true,Documentary,8.3,47,Okavango: River of Dreams,2019
-true,"Animation,Short,Comedy,Family,Fantasy",6.5,46,Forky Asks a Question: What Is a Leader?,2019
-true,Documentary,6.6,46,The Lost Tomb of Alexander the Great,2019
-true,"Animation,Short,Action,Adventure,Family",5,45,Marvel Rising: Battle of the Bands,2019
-true,"Animation,Short,Comedy,Family,Fantasy",6.3,45,Forky Asks a Question: What Is a Pet?,2019
-true,"Animation,Short,Action,Adventure,Family,Sci-Fi",5.2,45,Marvel Rising: Playing with Fire,2019
-true,History,6.8,44,Pompeii: Secrets of the Dead,2019
-true,"Animation,Short,Action,Adventure",4.8,44,Marvel Rising: Operation Shuri,2019
-true,Documentary,5.4,44,"Star Wars: Galaxy's Edge - Adventure Awaits",2019
-true,"Documentary,Short,Drama",6.4,43,Notre Dame: Race Against the Inferno,2019
-true,"Documentary,Drama,History",6.5,39,Viking Warrior Women,2019
-true,Documentary,6.3,38,Chasing the Equinox,2019
-true,Animation,5.5,38,Arendelle Castle Yule Log,2019
-true,Documentary,6,38,Man vs. Shark,2019
-true,"Documentary,History",7.1,38,The Lost City of Machu Picchu,2019
-true,,,14,Great Shark Chow Down,2019
-true,,,13,Ultimate Viking Sword,2019
-true,Documentary,,10,Women of Impact: Changing the World,2019
+Genres,IMDb,Rotten Tomatoes,Title
+"Biography,Drama,Western",5.9,62,The Kid
+"Drama,Music",6.1,60,Teen Spirit
+"Action,Crime,Drama,Thriller",5.4,50,The Flood
+"Animation,Drama,Family,Fantasy,Musical",6.2,72,Pinocchio
+"Action,Adventure,Drama,Sci-Fi",8.4,90,Avengers: Endgame
+"Animation,Adventure,Comedy,Family,Fantasy",7.7,82,Toy Story 4
+"Action,Adventure,Sci-Fi",6.8,81,Captain Marvel
+"Action,Adventure,Fantasy,Sci-Fi",6.5,78,Star Wars: The Rise of Skywalker
+"Animation,Adventure,Comedy,Family,Fantasy,Musical",6.8,78,Frozen II
+"Adventure,Biography,Drama,Family,History",8,76,Togo
+"Adventure,Family,Fantasy",6.6,76,Maleficent: Mistress of Evil
+"Action,Adventure,Drama,Family,Musical,Thriller",6.6,67,Descendants 3
+"Action,Adventure,Family,Fantasy",6,64,The Kid Who Would Be King
+"Animation,Short,Drama,Family",8,64,Kitbull
+"Animation,Short,Drama,Family,Fantasy",7.3,60,Float
+"Animation,Short,Comedy,Family",6.5,58,Purl
+"Crime,Drama",6.7,56,Smash and Grab
+"Documentary,Family",7.1,56,Penguins
+"Documentary,History",7.6,53,Apollo: Missions to the Moon
+"Family,Fantasy,Musical,Romance",5.6,53,The Little Mermaid Live!
+Documentary,7.4,52,Into the Grand Canyon
+"Animation,Short,Comedy,Family,Fantasy",7.1,51,Forky Asks a Question: What Is a Friend?
+"Documentary,Short",6.8,50,Marvel Studios: Expanding the Universe
+"Documentary,History",7.2,49,Expedition Amelia
+"Animation,Short,Comedy,Family,Fantasy",7.4,49,Forky Asks a Question: What Is Love?
+Documentary,7.2,49,High School Musical: The Musical: The Series: The Special
+"Animation,Short,Comedy,Family,Fantasy",6.4,48,Forky Asks a Question: What Is Money?
+"Animation,Short,Comedy,Family,Fantasy",6.8,48,Forky Asks a Question: What Is Time?
+"Animation,Short,Action,Adventure,Family",4.9,47,Marvel Rising: Chasing Ghosts
+"Animation,Short,Comedy,Family,Fantasy",6.5,47,Forky Asks a Question: What Is Art?
+"Animation,Short,Comedy,Family,Fantasy",6.6,47,Forky Asks a Question: What Is a Computer?
+"Animation,Short,Action,Adventure,Sci-Fi",4.4,47,Marvel Rising: Heart of Iron
+Documentary,8.3,47,Okavango: River of Dreams
+"Animation,Short,Comedy,Family,Fantasy",6.5,46,Forky Asks a Question: What Is a Leader?
+Documentary,6.6,46,The Lost Tomb of Alexander the Great
+"Animation,Short,Action,Adventure,Family",5,45,Marvel Rising: Battle of the Bands
+"Animation,Short,Comedy,Family,Fantasy",6.3,45,Forky Asks a Question: What Is a Pet?
+"Animation,Short,Action,Adventure,Family,Sci-Fi",5.2,45,Marvel Rising: Playing with Fire
+History,6.8,44,Pompeii: Secrets of the Dead
+"Animation,Short,Action,Adventure",4.8,44,Marvel Rising: Operation Shuri
+Documentary,5.4,44,"Star Wars: Galaxy's Edge - Adventure Awaits"
+"Documentary,Short,Drama",6.4,43,Notre Dame: Race Against the Inferno
+"Documentary,Drama,History",6.5,39,Viking Warrior Women
+Documentary,6.3,38,Chasing the Equinox
+Animation,5.5,38,Arendelle Castle Yule Log
+Documentary,6,38,Man vs. Shark
+"Documentary,History",7.1,38,The Lost City of Machu Picchu
