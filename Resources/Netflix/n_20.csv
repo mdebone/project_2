@@ -1,0 +1,504 @@
+Genres,IMDb,Netflix,Rotten Tomatoes,Title,Year
+"Documentary,Biography",9,true,95,David Attenborough: A Life on Our Planet,2020
+"Documentary,Drama",7.6,true,93,The Social Dilemma,2020
+"Drama,History,Thriller",7.8,true,92,The Trial of the Chicago 7,2020
+"Documentary,Biography,Music",7.4,true,90,Miss Americana,2020
+"Comedy,Drama,Romance",6.9,true,89,The Half of It,2020
+"Crime,Drama,Thriller",7.1,true,89,The Devil All the Time,2020
+Drama,7.1,true,88,Pieces of a Woman,2020
+Documentary,8.3,true,87,Kiss the Ground,2020
+"Documentary,History",7.7,true,87,Crip Camp: A Disability Revolution,2020
+"Action,Thriller",6.7,true,87,Extraction,2020
+"Drama,Horror,Thriller",6.5,true,87,His House,2020
+"Documentary,Drama",7.9,true,87,A Secret Love,2020
+"Comedy,Music",6.5,true,84,Eurovision Song Contest: The Story of Fire Saga,2020
+"Drama,Music",7,true,84,"Ma Rainey's Black Bottom",2020
+"Animation,Adventure,Comedy,Family,Fantasy,Musical,Sci-Fi",6.4,true,84,Over the Moon,2020
+"Drama,Thriller",7.1,true,83,The Hater,2020
+Documentary,8.1,true,83,My Octopus Teacher,2020
+Drama,6.8,true,82,The Life Ahead,2020
+"Animation,Adventure,Family,Fantasy,Romance",6.7,true,81,A Whisker Away,2020
+"Animation,Adventure,Comedy,Family",6.4,true,80,The Willoughbys,2020
+"Documentary,Short,Sport",7.4,true,79,The Speed Cubers,2020
+"Action,Adventure,Fantasy,Thriller",6.7,true,78,The Old Guard,2020
+"Action,Adventure,Crime,Drama,Mystery",6.6,true,77,Enola Holmes,2020
+Drama,6.3,true,75,Uncorked,2020
+"Documentary,Comedy",6.8,true,74,Have a Good Trip: Adventures in Psychedelics,2020
+"Drama,Music",6.5,true,74,"Nobody Knows I'm Here",2020
+"Biography,Comedy,Drama",6.9,true,74,Mank,2020
+"Action,Crime,Thriller",6.2,true,73,Lost Bullet,2020
+"Comedy,Horror",5.8,true,73,The Babysitter: Killer Queen,2020
+Documentary,6.9,true,73,Spelling the Dream,2020
+"Action,Comedy,Crime,Drama,Mystery,Thriller",6.2,true,73,Spenser Confidential,2020
+"Comedy,Romance",6.1,true,73,Holidate,2020
+"Drama,Mystery,Thriller",6,true,72,Horse Girl,2020
+Drama,6.7,true,72,Hillbilly Elegy,2020
+"Drama,Thriller",6.6,true,71,"I'm Thinking of Ending Things",2020
+Comedy,6.7,true,71,Jerry Seinfeld: 23 Hours to Kill,2020
+Comedy,6.6,true,71,Bad Trip,2020
+"Drama,Fantasy,Sci-Fi,Thriller",5.6,true,71,The Midnight Sky,2020
+"Drama,Sci-Fi,Thriller",6.2,true,71,Synchronic,2020
+"Adventure,Drama,War",6.5,true,70,Da 5 Bloods,2020
+"Action,Crime,Drama,Thriller",5.4,true,70,Ava,2020
+"Comedy,Crime",5.9,true,70,Go!,2020
+"Comedy,Romance",5.7,true,70,The Wrong Missy,2020
+"Action,Drama,War",7.2,true,70,Mosul,2020
+"Drama,Thriller",8.2,true,69,Disclosure,2020
+"Action,Crime,Sci-Fi,Thriller",6,true,69,Project Power,2020
+Comedy,6.8,true,69,Death to 2020,2020
+"Animation,Short,Drama",7.8,true,69,If Anything Happens I Love You,2020
+Drama,7.5,true,68,Rocks,2020
+Documentary,6.7,true,68,Giving Voice,2020
+"Action,Comedy,Crime,Drama",7.6,true,68,Ludo,2020
+"Documentary,Crime",7.2,true,68,American Murder: The Family Next Door,2020
+"Drama,Romance",5.2,true,68,After We Collided,2020
+"Comedy,Drama,Romance",6,true,68,To All the Boys: P.S. I Still Love You,2020
+"Action,Crime,Drama,Romance,Thriller",6.5,true,68,Malang,2020
+"Drama,Romance",6.5,true,67,All the Bright Places,2020
+Drama,6.7,true,67,18 Presents,2020
+"Documentary,Crime,Sport",7.6,true,67,Athlete A,2020
+"Comedy,Romance",5.8,true,67,The Kissing Booth 2,2020
+"Documentary,Music",8.5,true,67,"Emicida: AmarElo - It's All for Yesterday",2020
+"Documentary,Sport",8.1,true,67,Rising Phoenix,2020
+"Adventure,Drama,Thriller",6.4,true,67,The Occupant,2020
+Documentary,7.1,true,66,Tread,2020
+"Action,Comedy,Crime,Mystery,Romance,Thriller",6.1,true,66,The Lovebirds,2020
+"Biography,Drama,History,Romance",6.1,true,66,Sergio,2020
+Drama,6.4,true,66,Lingua Franca,2020
+"Comedy,Drama,Musical",5.9,true,65,The Prom,2020
+"Drama,Mystery,Thriller",6.1,true,65,Lost Girls,2020
+"Short,Drama,Sci-Fi",6.9,true,65,Two Distant Strangers,2020
+"Action,Biography,Drama,War",5.3,true,65,Gunjan Saxena: The Kargil Girl,2020
+"Comedy,Family,Fantasy",5.4,true,64,"A Babysitter's Guide to Monster Hunting",2020
+"Adventure,Comedy,Family,Fantasy",6,true,64,The Christmas Chronicles: Part Two,2020
+Drama,6.8,true,64,The Boys in the Band,2020
+"Comedy,Drama",7.2,true,64,The Forty-Year-Old Version,2020
+"Crime,Horror,Mystery,Sci-Fi,Thriller",7.1,true,64,The Call,2020
+"Documentary,Drama",7.5,true,64,Dick Johnson Is Dead,2020
+Comedy,7.4,true,64,Taylor Tomlinson: Quarter-Life Crisis,2020
+Drama,5.8,true,64,All Day and a Night,2020
+"Horror,Mystery,Thriller",7.8,true,63,Andhaghaaram,2020
+"Family,Fantasy,Musical",6.5,true,63,Jingle Jangle: A Christmas Journey,2020
+"Documentary,Music",7.5,true,63,BLACKPINK: Light Up the Sky,2020
+"Comedy,Mystery",5.2,true,63,Hubie Halloween,2020
+"Drama,Horror,Mystery",6.6,true,63,Bulbbul,2020
+"Action,Drama,Horror,Thriller",6.3,true,62,#Alive,2020
+"Comedy,Drama,Family",6.3,true,62,Feel the Beat,2020
+"Adventure,Drama,Family,History,Romance",7.1,true,62,Silver Skates,2020
+Drama,5.8,true,62,Choked: Paisa Bolta Hai,2020
+"Action,Comedy,Drama",7.3,true,62,Ala Vaikunthapurramuloo,2020
+Comedy,7.9,true,62,Hannah Gadsby: Douglas,2020
+"Comedy,Family,Romance",5.8,true,62,Operation Christmas Drop,2020
+"Action,Adventure,Crime,Drama,Thriller",5.6,true,62,The Paramedic,2020
+"Comedy,Romance",6.4,true,62,Isi & Ossi,2020
+"Drama,Romance",6.1,true,62,2 Hearts,2020
+"Crime,Drama,Mystery,Romance,Thriller",5.5,true,62,The Night Clerk,2020
+"Comedy,Music",6.1,true,62,Work It,2020
+"Documentary,Crime",8.2,true,62,The Three Deaths of Marisela Escobedo,2020
+"Documentary,Biography",7.2,true,61,Audrey,2020
+,8.6,true,61,"Best Wishes, Warmest Regards: A Schitt's Creek Farewell",2020
+"Drama,Horror,Thriller",5.8,true,61,1BR,2020
+Documentary,6.7,true,61,The Last Blockbuster,2020
+"Crime,Drama",6.9,true,61,Calm with Horses,2020
+"Animation,Action,Crime,Drama,Mystery,Sci-Fi,Thriller",6.5,true,61,Altered Carbon: Resleeved,2020
+"Drama,Horror,Mystery,Thriller",6.1,true,61,"Don't Listen",2020
+"Crime,Drama,Thriller",5.9,true,61,Wasp Network,2020
+"Drama,Thriller",5.5,true,61,Sightless,2020
+Comedy,7.3,true,61,Tom Segura: Ball Hog,2020
+"Drama,Romance",7.3,true,61,Your Name Engraved Herein,2020
+Comedy,6.1,true,60,Pete Davidson: Alive from New York,2020
+"Drama,Fantasy,Thriller",5.9,true,60,A Fall from Grace,2020
+"Adventure,Comedy,Mystery,Romance,Sci-Fi",7,true,60,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,2020
+"Drama,Mystery,Romance,Thriller",6,true,60,Rebecca,2020
+"Documentary,History",7.2,true,60,Secrets of the Saqqara Tomb,2020
+"Documentary,Drama",7.5,true,60,The Reason I Jump,2020
+"Action,Comedy,Crime,Drama,Thriller",6.9,true,60,AK vs AK,2020
+"Action,Crime,Drama,Thriller",6.1,true,60,Rogue City,2020
+"Adventure,Comedy,Drama",7,true,60,Rose Island,2020
+Drama,6.3,true,60,Concrete Cowboy,2020
+"Action,Mystery,Thriller",5.7,true,60,The Vanished,2020
+"Drama,Mystery,Thriller",5.3,true,60,Dangerous Lies,2020
+Comedy,8,true,60,The Book of Sun,2020
+"Horror,Thriller,War",5.5,true,60,Ghosts of War,2020
+"Action,Crime,Drama,Thriller",6.7,true,60,Night in Paradise,2020
+"Horror,Thriller",4.8,true,59,Nobody Sleeps in the Woods Tonight,2020
+"Documentary,Music",6.4,true,59,"ariana grande: excuse me, i love you",2020
+"Action,Crime,Drama,Sci-Fi,Thriller",6.3,true,59,Time to Hunt,2020
+"Comedy,Horror",5.6,true,59,Vampires vs. the Bronx,2020
+Comedy,5.2,true,59,Leslie Jones: Time Machine,2020
+"Action,Adventure,Drama,Fantasy,Sci-Fi",5.3,true,59,Dragonheart: Vengeance,2020
+Drama,6.5,true,59,All Together Now,2020
+"Crime,Drama,Mystery,Thriller",7.3,true,59,Raat Akeli Hai,2020
+"Short,Drama",7.6,true,59,The Present,2020
+"Action,Adventure,Comedy,Crime,Drama,Mystery,Thriller",6.1,true,59,Unknown Origins,2020
+"Action,Adventure,Comedy,Family",5.6,true,59,The Sleepover,2020
+"Drama,Romance",3.3,true,59,365 Days,2020
+"Drama,Romance",6.1,true,59,The Lost Husband,2020
+"Crime,Thriller",6.2,true,58,Offering to the Storm,2020
+Drama,6,true,58,Ultras,2020
+"Crime,Drama,Thriller",6.6,true,58,The Crimes That Bind,2020
+"Adventure,Drama,History,Thriller",6.3,true,58,Coven,2020
+Documentary,7.3,true,58,Mucho Mucho Amor: The Legend of Walter Mercado,2020
+"Documentary,Music",8.7,true,58,Sky Tour: The Movie,2020
+"Action,Thriller",5.9,true,58,The Decline,2020
+"Animation,Short,Drama,Family",6.5,true,57,Canvas,2020
+Comedy,6.2,true,57,Eric Andre: Legalize Everything,2020
+"Drama,Music",7.2,true,57,The Disciple,2020
+"Drama,History",6.2,true,57,Radium Girls,2020
+Comedy,5.8,true,57,"I Love You, Stupid",2020
+Comedy,7.9,true,57,Ari Eldjárn: Pardon My Icelandic,2020
+Documentary,6.6,true,57,Black Holes: The Edge of All We Know,2020
+Comedy,7.1,true,57,Bert Kreischer: Hey Big Boy,2020
+"Drama,War",6.6,true,57,Fatima,2020
+"Comedy,Crime,Drama",5.8,true,57,All My Friends Are Dead,2020
+Documentary,7.2,true,57,LA Originals,2020
+Drama,6.7,true,57,Adú,2020
+"Animation,Adventure,Comedy,Family,Fantasy,Musical",5.8,true,57,Animal Crackers,2020
+"Crime,Mystery,Thriller",6.8,true,57,Forensic,2020
+Comedy,6.8,true,57,Marc Maron: End Times Fun,2020
+Comedy,3.8,true,57,"American Pie Presents: Girls' Rules",2020
+"Comedy,Drama,Romance",5.8,true,57,A California Christmas,2020
+"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller",5.5,true,57,Tremors: Shrieker Island,2020
+"Comedy,Drama,Family,Romance",6.5,true,57,I Am Woman,2020
+"Comedy,Romance",5.2,true,57,Desperados,2020
+"Documentary,Crime",7,true,57,Made You Look: A True Story About Fake Art,2020
+Music,8.4,true,57,Ben Platt: Live from Radio City Music Hall,2020
+"Comedy,Drama,Family,Romance",5.4,true,57,The Princess Switch: Switched Again,2020
+"Horror,Mystery,Sci-Fi,Thriller",4.3,true,56,What Lies Below,2020
+"Action,Adventure,Fantasy",6.1,true,56,Double World,2020
+Comedy,6,true,56,Kevin Hart: Zero F**ks Given,2020
+"Biography,Comedy,Crime,Drama",5.4,true,56,Guilty,2020
+Drama,6.5,true,56,Tigertail,2020
+"Comedy,Romance",7.6,true,56,Kappela,2020
+Drama,3.2,true,56,Cuties,2020
+Comedy,7.2,true,56,Jim Jefferies: Intolerant,2020
+"Comedy,Romance",5.6,true,56,"Love, Guaranteed",2020
+Documentary,7.7,true,56,Road to Roma,2020
+"Horror,Mystery,Thriller",4.4,true,56,Death of Me,2020
+Documentary,6.7,true,56,Coded Bias,2020
+"Biography,Drama,History",6.8,true,56,Dance of the 41,2020
+"Horror,Mystery,Thriller",5.1,true,56,Cadaver,2020
+"Action,Comedy",5.8,true,56,Debt Collectors,2020
+"Animation,Adventure,Family",5.8,true,56,Bigfoot Family,2020
+"Comedy,Romance",5.8,true,56,Rich in Love,2020
+Documentary,7.7,true,56,Uppity: The Willy T. Ribbs Story,2020
+"Action,Sci-Fi,Thriller",2.9,true,56,Jiu Jitsu,2020
+Documentary,7.8,true,55,Hating Peter Tatchell,2020
+"Drama,Horror,Mystery",6.8,true,55,MOTHER,2020
+"Drama,History,Romance",6,true,55,Monsoon,2020
+Drama,7.8,true,55,Uma Maheswara Ugra Roopasya,2020
+"Action,Horror,Thriller",6.5,true,55,Residue,2020
+Comedy,7.5,true,55,Dave Chappelle: The Kennedy Center Mark Twain Prize,2020
+"Comedy,Drama",4.7,true,55,The Stand In,2020
+Drama,6.8,true,55,Fan Girl,2020
+"Crime,Drama",7.4,true,54,Mariposa,2020
+"Action,Drama,Sport,Thriller",6.7,true,54,Torbaaz,2020
+"Drama,Romance,Thriller",7.7,true,54,Kannum Kannum Kollaiyadithaal,2020
+"Horror,Mystery,Thriller",6.2,true,54,Psycho,2020
+"Action,Comedy,Drama,Family,Fantasy",4.7,true,54,We Can Be Heroes,2020
+"Horror,Mystery,Sci-Fi,Thriller",5.3,true,54,The Block Island Sound,2020
+"Comedy,Drama",7.2,true,54,Classmates Minus,2020
+"Action,Drama,Fantasy,Sci-Fi",5.4,true,54,"Freaks – You're One of Us",2020
+Drama,7.3,true,54,Little Big Women,2020
+"Drama,Romance,Sci-Fi",5.1,true,54,Only,2020
+"Comedy,Drama",6.8,true,54,Serious Men,2020
+"Action,Drama,Fantasy,Mystery,Sci-Fi",6.5,true,54,The Yin-Yang Master: Dream of Eternity,2020
+Drama,7.6,true,53,Yeh Ballet,2020
+"Action,Crime,Drama,Thriller",4.8,true,53,Cut Throat City,2020
+"Documentary,Sport",6.4,true,53,Anelka: Misunderstood,2020
+"Crime,Drama,Romance",6,true,53,And Tomorrow the Entire World,2020
+"Comedy,Drama",5.8,true,53,Rising High,2020
+"Drama,Family",7.5,true,53,"One Day We'll Talk About Today",2020
+"Action,Comedy,Romance",6.6,true,53,Bheeshma,2020
+"Comedy,Drama,Romance",5.7,true,53,Ginny Weds Sunny,2020
+"Comedy,Drama",6.7,true,53,Just Another Christmas,2020
+"Action,Crime,Drama,Thriller",5.8,true,53,"Class of '83",2020
+"Comedy,Family,Musical",5.2,true,53,"Dolly Parton's Christmas on the Square",2020
+"Documentary,Short,Biography,Romance,Sci-Fi",6.4,true,53,John Was Trying to Contact Aliens,2020
+"Animation,Short,Action,Adventure,Family",7,true,53,Carmen Sandiego: To Steal or Not to Steal,2020
+Drama,5.8,true,53,Funny Boy,2020
+"Documentary,War",7.3,true,53,Father Soldier Son,2020
+"Comedy,Drama,Romance",6.9,true,53,Varane Avashyamund,2020
+Thriller,5.2,true,53,Every Time I Die,2020
+"Comedy,Drama",7.3,true,53,Eeb Allay Ooo!,2020
+"Action,Thriller",3.3,true,53,Hard Kill,2020
+"Comedy,Drama,Romance",5.6,true,53,One-Way to Tomorrow,2020
+"Action,Crime,Drama,Thriller",5.8,true,52,Villain,2020
+Comedy,5.9,true,52,"Chris D'Elia: No Pain",2020
+"Comedy,Romance",5.8,true,52,Midnight at the Magnolia,2020
+"Drama,Thriller",6.6,true,52,Shine Your Eyes,2020
+"Animation,Short,Adventure,Comedy,Family",4.9,true,52,The Boss Baby: Get That Baby!,2020
+Documentary,6.4,true,52,Murder to Mercy: The Cyntoia Brown Story,2020
+"Comedy,Romance",5.5,true,52,Love Wedding Repeat,2020
+Comedy,7.8,true,52,Vir Das: For India,2020
+"Drama,Romance",5.4,true,52,A New York Christmas Wedding,2020
+"Comedy,Crime",6.4,true,52,The Unknown Saint,2020
+"Drama,Family,Fantasy,Horror,Mystery",5.4,true,52,The Strange House,2020
+"Action,Drama",3.8,true,52,The 2nd,2020
+"Action,Adventure,Drama,Thriller",4.2,true,52,Welcome to Sudden Death,2020
+Comedy,6.9,true,52,Fortune Feimster: Sweet & Salty,2020
+"Adventure,Comedy,Family,Sci-Fi",5.6,true,51,Sky High,2020
+"Documentary,Biography,Sport",6.8,true,51,A Life of Speed: The Juan Manuel Fangio Story,2020
+"Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi",5.6,true,51,Jungle Beat: The Movie,2020
+Drama,5.8,true,51,What We Wanted,2020
+Comedy,7.2,true,51,Michael McIntyre: Showman,2020
+Sport,5.9,true,51,Lady Driver,2020
+Comedy,5.6,true,51,"Sarah Cooper: Everything's Fine",2020
+Comedy,4.4,true,51,Guest House,2020
+"Adventure,Comedy,Drama",6.4,true,51,Kilometers and Kilometers,2020
+Comedy,7.2,true,51,"Tom Papa: You're Doing Great!",2020
+"Action,Drama,Thriller",5.5,true,51,Black Beach,2020
+"Drama,Romance",5.4,true,51,Roped,2020
+Animation,6,true,51,Masameer: The Movie,2020
+"Crime,Drama,Mystery,Thriller",5.9,true,51,DNA,2020
+"Comedy,Drama,Romance",4.7,true,51,Love Aaj Kal,2020
+Comedy,6.5,true,51,Sam Jay: 3 in the Morning,2020
+"Action,Comedy,Family,Fantasy,Sport",4.8,true,51,The Main Event,2020
+"Comedy,Drama",7,true,51,Chaman Bahar,2020
+"Action,Comedy,Crime",5.1,true,51,Coffee & Kareem,2020
+"Horror,Mystery,Thriller",5.3,true,50,The Bridge Curse,2020
+"Comedy,Drama",6.2,true,50,Door Ke Darshan,2020
+Comedy,7.1,true,50,Michelle Buteau: Welcome to Buteaupia,2020
+"Animation,Adventure,Comedy,Drama,Family",7.1,true,50,"Angela's Christmas Wish",2020
+"Comedy,Romance",4.4,true,50,Seriously Single,2020
+"Action,Thriller",6.9,true,50,Cops and Robbers,2020
+Drama,7.5,true,50,Sitting in Limbo,2020
+"Action,Comedy",5.1,true,50,Asphalt Burning,2020
+"Comedy,Drama",4.3,true,50,Friendsgiving,2020
+"Drama,Mystery",5.6,true,50,Tragic Jungle,2020
+"Adventure,Horror,Sci-Fi",5.2,true,50,The Beast,2020
+"Crime,Thriller",5.4,true,50,Intuition,2020
+Thriller,6.4,true,50,The Stand at Paxton County,2020
+Documentary,6.3,true,49,Born to Play,2020
+Drama,4.9,true,49,Milkwater,2020
+Documentary,7.7,true,49,Picture a Scientist,2020
+"Documentary,Music",6.6,true,49,Shawn Mendes: In Wonder,2020
+"Drama,Thriller",6.2,true,49,Citation,2020
+Documentary,6.8,true,49,Making the Witcher,2020
+"Animation,Short,Adventure,Comedy,Family,Fantasy,Sci-Fi",6.2,true,49,Alien Xmas,2020
+Romance,5,true,49,World Famous Lover,2020
+"Comedy,Drama,Romance",5.4,true,49,Under the Riccione Sun,2020
+"Action,Comedy,Crime,Fantasy",5.8,true,49,Maska,2020
+"Animation,Musical",5.6,true,49,Barbie: Princess Adventure,2020
+Comedy,5.1,true,48,The F**k-It List,2020
+"Drama,Romance",5.1,true,48,Namaste Wahala,2020
+Comedy,7.3,true,48,"Yours Sincerely, Kanan Gill",2020
+"Crime,Drama,Thriller",4.8,true,48,Mrs. Serial Killer,2020
+"Drama,Thriller",3.5,true,48,John Henry,2020
+Drama,6.5,true,48,Milestone,2020
+"Crime,Drama,Thriller",4.3,true,48,The Last Thing He Wanted,2020
+Drama,6.4,true,48,Quiet,2020
+"Documentary,Family",7.1,true,48,Dance Dreams: Hot Chocolate Nutcracker,2020
+Thriller,6.8,true,48,40 Sticks,2020
+"Comedy,Drama,Family",5.7,true,48,Dad Wanted,2020
+Comedy,5,true,48,Airplane Mode,2020
+"Music,Musical",7.5,true,48,Qlimax - The Source,2020
+Animation,5.2,true,47,"Xico's Journey",2020
+Music,7.4,true,47,Shawn Mendes: Live in Concert,2020
+"Biography,Comedy,Drama,Romance",6.9,true,47,#FriendButMarried 2,2020
+Comedy,7.6,true,47,Rhys Nicholson: Live at the Athenaeum,2020
+"Documentary,Biography,Music",6.5,true,47,Nasha Natasha,2020
+"Action,Comedy",3.5,true,47,Bulletproof 2,2020
+Comedy,6.1,true,47,Kenny Sebastian: The Most Interesting Person in the Room,2020
+Comedy,5.2,true,47,So Much Love to Give,2020
+"Adventure,Family,Fantasy",5.5,true,47,Wish Upon a Unicorn,2020
+"Documentary,History",7.4,true,47,9to5: The Story of a Movement,2020
+Documentary,7.8,true,47,Lift Like a Girl,2020
+"Comedy,Crime,Drama",5.7,true,47,Dogwashers,2020
+"Action,Comedy,Family",4.8,true,47,Malibu Rescue: The Next Wave,2020
+"Drama,Horror,Thriller",4.7,true,47,The Binding,2020
+Documentary,7.7,true,47,Elizabeth and Margaret: Love and Loyalty,2020
+"Comedy,Drama",6.2,true,47,Four Sisters Before the Wedding,2020
+"Animation,Adventure,Comedy",5.1,true,47,The Larva Island Movie,2020
+Drama,6.5,true,46,"The Fisherman's Diary",2020
+Comedy,5.5,true,46,Best of Stand-up 2020,2020
+Comedy,5.8,true,46,Tell Me When,2020
+Documentary,5.6,true,46,Not a Game,2020
+Comedy,4.2,true,46,"So My Grandma's a Lesbian!",2020
+"Drama,Romance",6.1,true,46,Romance Doll,2020
+"Drama,Horror,Thriller",4.9,true,46,The Day of the Lord,2020
+"Comedy,Romance",4.6,true,46,Shimla Mirchi,2020
+"Animation,Adventure,Comedy,Family",5.5,true,46,Dragons: Rescue Riders: Secrets of the Songwing,2020
+Thriller,4.5,true,46,Fatal Affair,2020
+"Action,Crime,Drama,Thriller",4.9,true,46,Earth and Blood,2020
+"Action,Crime,Drama,Mystery,Thriller",4.7,true,46,Sol Levante,2020
+Documentary,5.3,true,46,#cats_the_mewvie,2020
+"Animation,Family,Fantasy,Mystery,Romance",6.5,true,46,You Are My Home,2020
+"Animation,Adventure,Comedy,Family,Fantasy,History,Musical",6.2,true,46,The Knight & The Princess,2020
+"Action,Crime,Drama,Sci-Fi,Thriller",3.7,true,46,The Last Days of American Crime,2020
+"Action,Adventure,Drama,Sport,Thriller",6.5,true,46,Tarung Sarung,2020
+Comedy,5.4,true,45,Wheels of Fortune,2020
+Action,3.4,true,45,I Am Vengeance: Retaliation,2020
+Comedy,6.6,true,45,Thiago Ventura: POKAS,2020
+"Animation,Family",5.6,true,45,A Trash Truck Christmas,2020
+Comedy,3.7,true,45,Leyla Everlasting,2020
+Comedy,6.7,true,45,Afonso Padilha: Classless,2020
+"Comedy,Music",5.5,true,45,Fierce,2020
+"Animation,Adventure,Family",5.5,true,45,Dragons: Rescue Riders: Hunt for the Golden Dragon,2020
+"Drama,Romance",6.3,true,45,Milea,2020
+Comedy,7,true,45,Dr Jason Leong: Hashtag Blessed,2020
+Comedy,6,true,45,Felix Lobrecht: Hype,2020
+"Adventure,Drama,Fantasy,Romance",5,true,45,Love Like the Falling Rain,2020
+"Comedy,Drama,Music",6,true,44,Bhangra Paa Le,2020
+"Comedy,Crime,Thriller",4.8,true,44,Christmas Crossfire,2020
+"Drama,Music,Romance",5.3,true,44,Into the Beat,2020
+"Action,Crime,Drama",3.8,true,44,Santana,2020
+"Drama,Romance",5.7,true,44,Jezebel,2020
+Comedy,6.2,true,44,Urzila Carlson: Overqualified Loser,2020
+"Documentary,Short",6.9,true,44,The Claudia Kishi Club,2020
+Reality-TV,7.3,true,44,Sugar High,2020
+Comedy,6.7,true,44,Larry The Cable Guy: Remain Seated,2020
+"Documentary,Short,Drama",7.1,true,44,Rooting for Roona,2020
+"Comedy,Romance",5.8,true,44,"You've Got This",2020
+Comedy,4.1,true,44,Mutiny of the Worker Bees,2020
+"Comedy,Romance",5.4,true,44,Krishna and His Leela,2020
+Comedy,6.9,true,44,Vir Das: Outside in - The Lockdown Special,2020
+Comedy,6.4,true,44,Hazel Brugger: Tropical,2020
+Horror,4.8,true,44,The Rope Curse 2,2020
+Documentary,6.5,true,44,From Stress To Happiness,2020
+"Drama,Romance",6.5,true,44,"Story of Kale: When Someone's in Love",2020
+Drama,5.6,true,44,"Girl's Revenge",2020
+,,true,43,"Ma Rainey's Black Bottom: A Legacy Brought to Screen",2020
+Documentary,6.7,true,43,Andre and His Olive Tree,2020
+"Comedy,Drama,Romance",3.6,true,43,Jai Mummy Di,2020
+"Action,Drama,Fantasy,Sci-Fi,Thriller",5.2,true,43,Monster Run,2020
+"Documentary,Music",6.9,true,43,Bigflo & Oli: Hip Hop Frenzy,2020
+"Crime,Drama,Thriller",4.4,true,43,U-Turn,2020
+"Fantasy,Romance",,true,43,A Choo,2020
+"Action,Adventure,Drama",5.5,true,43,The Lost Okoroshi,2020
+Drama,4.9,true,43,Camellia Sisters,2020
+Comedy,5.5,true,43,"Rob Schneider: Asian Momma, Mexican Kids",2020
+"Documentary,Short",,true,43,Zulu Man in Japan,2020
+"Drama,History,Sport,War",4.9,true,43,The Match,2020
+"Comedy,Drama",3,true,43,Indoo Ki Jawani,2020
+"Comedy,Drama",3,true,43,Hospital,2020
+"Comedy,Sci-Fi",2.5,true,43,Holiday on Mars,2020
+Drama,6.1,true,43,Illegal Woman,2020
+"Animation,Adventure,Comedy,Family",6.3,true,43,Octonauts and the Caves of Sac Actun,2020
+Action,3.2,true,43,Rogue Warfare: Death of a Nation,2020
+Documentary,7.3,true,42,Islands of Faith,2020
+Drama,6.3,true,42,Notes for My Son,2020
+"Animation,Action,Adventure,Comedy",6.2,true,42,"Horrid Henry's Gross Day Out",2020
+"Comedy,Romance",4.1,true,42,Whipped,2020
+Drama,6.5,true,42,Chippa,2020
+"Comedy,Drama",6.2,true,42,Crazy Awesome Teachers,2020
+Comedy,5.6,true,42,"George Lopez: We'll Do It for Half",2020
+"Animation,Action,Adventure,Comedy,Family",7.4,true,42,Octonauts and the Great Barrier Reef,2020
+Comedy,6.6,true,42,"Jack Whitehall: I'm Only Joking",2020
+Thriller,6.6,true,42,Voiceless,2020
+"Animation,Family",5.8,true,42,Dragons: Rescue Riders: Huttsgalor Holiday,2020
+Drama,6.8,true,42,100% Halal,2020
+"Animation,Short,Action,Adventure,Comedy,Drama,Family,Mystery,Western",5.8,true,42,Spirit Riding Free: Ride Along Adventure,2020
+Drama,5.8,true,41,Generasi 90an: Melankolia,2020
+Documentary,6.6,true,41,Dark City Beneath the Beat,2020
+,5.9,true,41,David Batra: Elephant in The Room,2020
+"Comedy,Romance",4.7,true,41,Maniyarayile Ashokan,2020
+"Action,Comedy,Romance",4,true,41,All Because of You,2020
+"Adventure,Drama",6.1,true,41,"Blue, Painful, and Brittle",2020
+"Animation,Short,Family,Horror",6.1,true,41,A Go Go Cory Carson Halloween,2020
+,,true,41,PNL - Dans la légende tour,2020
+Drama,5.4,true,41,Rattlesnake: The Ahanna Story,2020
+Family,4.8,true,41,Full Out 2: You Got This!,2020
+Thriller,5,true,41,Furtive,2020
+"Documentary,Music",6.8,true,41,GIMS: On the Record,2020
+"Documentary,History",3.7,true,40,Berlin Berlin,2020
+"Animation,Short,Action,Adventure,Comedy,Family",6.3,true,40,Captain Underpants: Epic Choice-o-rama,2020
+Comedy,4.1,true,40,"Sí, Mi Amor",2020
+"Animation,Adventure,Comedy,Family,Sci-Fi",6,true,40,The Magic School Bus Rides Again: Kids in Space,2020
+,,true,40,Reframe THEATER EXPERIENCE with you,2020
+Music,,true,40,Perfume Imaginary Museum “Time Warp”,2020
+Drama,6.3,true,40,This Lady Called Life,2020
+Comedy,6.5,true,40,Mauricio Meirelles: Generating Chaos,2020
+"Animation,Comedy,Family",7.3,true,40,Fukrey Boyzzz: Space Mein Fukrapanti,2020
+,6.7,true,40,"The End of Doel's Love Story",2020
+Drama,6.6,true,40,Ainu Mosir,2020
+"Animation,Short,Action,Adventure,Comedy,Family",5.4,true,40,Captain Underpants: Mega Blissmas,2020
+"Animation,Short,Family",6.8,true,39,Go! Go! Cory Carson: The Chrissy,2020
+"Animation,Adventure,Comedy,Family",5.8,true,39,The Magic School Bus Rides Again in the Zone,2020
+"Adventure,Comedy,Family,Fantasy,Sci-Fi",4.3,true,39,Aliens Stole My Body,2020
+Comedy,3.6,true,39,The App That Stole Christmas,2020
+Drama,,true,39,Mama Drama,2020
+Comedy,5.3,true,39,Jo Koy: In His Elements,2020
+Family,4.4,true,39,Hope Ranch,2020
+Comedy,7,true,39,Fate of Alakada,2020
+"Drama,Horror,Mystery,Thriller",3.4,true,39,Kaali Khuhi,2020
+Drama,6,true,39,Any Crybabies Around?,2020
+Comedy,6.1,true,39,Alex Fernández: The Best Comedian in the World,2020
+Drama,3.6,true,39,Miss India,2020
+Comedy,3.8,true,39,Mujeres arriba,2020
+"Animation,Short,Family",6.4,true,39,A Go! Go! Cory Carson Christmas,2020
+Thriller,6,true,39,Light in the Dark,2020
+"Animation,Action",5.4,true,39,Little Singham: Kaal Ka Badla,2020
+"Animation,Family",2.6,true,38,Bobbleheads: The Movie,2020
+,5.7,true,38,BNK48: One Take,2020
+,,true,38,"Calico Critters: Everyone's Big Dream Flying in the Sky",2020
+Comedy,2.8,true,38,Ni de coña,2020
+"Animation,Family",6.9,true,38,True: Friendship Day,2020
+"Animation,Short,Family",5.3,true,38,A Go! Go! Cory Carson Summer Camp,2020
+Comedy,7.4,true,38,David A. Arnold: Fat Ballerina,2020
+,7.1,true,37,I’m No Longer Here: A Conversation with Guillermo Del Toro & Alfonso Cuarón,2020
+"Drama,Fantasy,Horror,Mystery,Thriller",2.7,true,37,Dark Forces,2020
+Drama,4.6,true,37,Finding Agnes,2020
+Talk-Show,4.8,true,37,The Netflix Afterparty: The Best Shows of The Worst Year,2020
+"Animation,Adventure,Comedy,Family,Horror,Musical",4.7,true,37,Super Monsters: Dia de los Monsters,2020
+"Animation,Adventure,Comedy,Family,Horror,Musical",5.9,true,37,Super Monsters: The New Class,2020
+"Drama,Romance",3.9,true,37,Fronteras,2020
+"Documentary,History,News,War",4.5,true,36,We Are One,2020
+,,true,36,"Beyond the Boundary: ICC Women's T20 World Cup Australia 2020",2020
+"Animation,Family",5.8,true,36,Chico Bon Bon and the Very Berry Holiday,2020
+"Animation,Short,Adventure,Comedy,Family,Musical",5,true,36,The Magic School Bus Rides Again: The Frizz Connection,2020
+Comedy,4.8,true,36,Natalie Palamides: Nate - A One Man Show,2020
+"Comedy,Drama,Romance",6.1,true,36,Finding Hubby,2020
+"Short,Family",5.3,true,36,Elf Pets: Santas Reindeer Rescue,2020
+"Animation,Adventure,Comedy,Family,Horror,Musical",4.7,true,35,"Super Monsters: Santa's Super Monster Helpers",2020
+"Biography,Drama",5.9,true,35,Hunter in the Blue Side of Manchester,2020
+"Animation,Family",5,true,35,Mighty Express: A Mighty Christmas,2020
+"Animation,Action,Adventure,Comedy,Family,Fantasy,Sci-Fi",,true,35,StarBeam: Halloween Hero,2020
+"Documentary,Short",,true,34,El límite infinito,2020
+"Comedy,Romance",5.7,true,34,"Who's the Boss",2020
+Comedy,4.7,true,34,London Hughes: To Catch A D*ck,2020
+"Animation,Family",6.1,true,34,True: Rainbow Rescue,2020
+Animation,7.1,true,33,True: Wuzzle Wegg Day,2020
+"Comedy,Drama",3.3,true,33,An Unremarkable Christmas,2020
+,6.3,true,33,Thomas e Seus Amigos - A Locomotiva Real,2020
+"Action,Crime,Thriller",3.3,true,32,Asuraguru,2020
+"Comedy,Music,Romance",5.8,true,32,One Like It,2020
+Drama,3.1,true,31,Small Chops,2020
+,,true,17,Angu Vaikuntapurathu (Malayalam),2020
+Documentary,,true,17,The Boys in the Band: Something Personal,2020
+"Mystery,Sci-Fi,Thriller",,true,15,Death Can Wait,2020
+Drama,,true,15,Har Kisse Ke Hisse Kaamyaab,2020
+Documentary,,true,14,ReFrame,2020
+,,true,13,Wave of Cinema: Surat Dari Timur,2020
+"Documentary,Biography,Sport",,true,12,Guillermo Vilas: Settling the Score,2020
+Action,,true,12,Little Singham: Legend of Dugabakka,2020
+,,true,12,Velvet Colección: Grand Finale,2020
+Animation,,true,10,Thomas & Friends: Marvelous Machinery: A New Arrival,2020
+"Comedy,Romance",,true,10,Dear Affy,2020
+,,true,,Wave of Cinema: Filosofi Kopi,2020
+Short,,true,,Thomas & Friends: Marvelous Machinery: World of Tomorrow,2020
+"Animation, Action, Adventure, Fantasy, Sci-Fi",7.7,true,,Alice in Borderland,2020
+"Action, Crime, Drama, Thriller",7.3,true,,Bridgerton,2020
+"Action, Crime",7.4,true,,The Haunting of Bly Manor,2020
+"Comedy, Drama, Romance",8.6,true,,"The Queen's Gambit",2020
+"Action, Drama, History",7.6,true,,Outer Banks,2020
+Drama,7.4,true,,Sweet Home,2020
+"Action, Adventure, Drama, Fantasy, Mystery",7.1,true,,Into the Night,2020
+"Drama, Sci-Fi, Thriller",6.5,true,,Blood & Water,2020
+"Action, Drama, Thriller",7.5,true,,Ask 101,2020
+"Animation, Action, Drama, Sci-Fi",7.4,true,,Locke & Key,2020
+Comedy,7.9,true,,Never Have I Ever,2020
+"Documentary, Reality-TV, Romance",7,true,,Emily in Paris,2020
+"Action, Drama, Sci-Fi, Thriller",7.7,true,,Little Fires Everywhere,2020
+"Comedy, Romance",8.5,true,,Normal People,2020
+"Animation, Comedy",7.3,true,,The Circle,2020
+"Action, Crime, Drama",7.3,true,,Ratched,2020
+"Crime, Drama, Mystery, Thriller",7.2,true,,Hunters,2020
+"Action, Adventure, Drama, Fantasy",7.5,true,,Ragnarok,2020
+"Comedy, Drama",7.3,true,,The Stranger,2020
+"Action, Adventure, Drama, Fantasy, Sci-Fi",6.5,true,,Dark Desire,2020
+"Action, Drama",6.7,true,,Space Force,2020
+"Drama, Romance",7.7,true,,Extracurricular,2020
+"Action, Adventure",8.7,true,,Saikojiman Gwaenchanha,2020
+"Animation, Adventure, Comedy, Family, Music",7.2,true,,Barbarians,2020
+Documentary,5.9,true,,Cursed,2020
