@@ -1,13 +1,31 @@
 # project_2
 
-added a Resources folder for the hbo and disney+ csv's I found. Created 3 subfolders to keep everything organized, Disney+, HBO and 'Multi' for any data we find that has info from more than one streaming service. Feel free to make a Hulu and Netflix folders in the resources.
+Source Reports: 
 
-<<<<<<< HEAD
-Added to Resources folder and created sub folders 'Hulu and Netflix.' Added csv files we retrieved from Kaggle. 
-=======
-Added to Resources folder and created sub folders 'Hulu and Netflix.' Added csv files we retrieved from Kaggle. 
->>>>>>> 247fe3b2df4fcbbe96ad0972aec23e318290b67f
+Shivam, kaggle dataset: “Disney+ Movies and TV Shows”, published 10/1/21 (version 1). accessed on 10/9/21, Link.
 
-Added two work in progress web scrapping files for imdb and rotten tomatoes, metacrtitic seems like the easiest some have been saving for last. The function like the splinter activaties done in lesson 2.
-Pushed our Metacritic Jupyter Notebook to Github.
-Pushed updated Metacritic notebook 
+Ruchi Bhatia, kaggle dataset: “TV shows on Netflix, Prime Video, Hulu and Disney+”, published on 05/25/20 (version 3), updated 08/02/21, accessed on 10/9/21, Link.
+
+Akash Guna, kaggle dataset: “Netflix Prize Show Information”, published on 10/6/21 (version 1), accessed on 10/8/21, Link. 
+
+Neelima Jauhari, kaggle dataset: “Amazon Prime TV Shows”, published on 06/18/20 (version 1), updated 10/13/20, accessed on 10/9/21, Link.
+
+Julia Stoll, statista dataset: “Number of Hulu’s paying subscribers in the U.S. 2019-2021, by quarter”, published on 08/12/21, accessed on 10/10/21, Link.
+
+Julia Stoll, statista dataset: “Number of HBO and HBO Max subscribers in the United States from 4th quarter 2019 to 2nd quarter 2021”, published on 07/22/21, accessed on 10/10/21, Link.
+
+Julia Stoll, statista dataset: “Number of Amazon Video subscribers in the United States from 2017 to 2025”, published on 02/19/21, accessed on 10/10/21, Link.
+
+Julia Stoll, statista dataset: “Number of Netflix paying streaming subscribers in the United States and Canada from 1st quarter 2013 to 2nd quarter 2021”, published on 07/21/21, accessed on 10/10/21, Link.
+
+Julia Stoll, statista dataset: “Coronavirus impact: increase in SVoD viewing compared to the previous month in the United States from January to March 2020, by service”, published on 07/21/21, accessed on 10/10/21,Link.
+
+Metacritic, web scrapped: “The 20 Best New TV Shows of 2021 So Far”, published on 07/01/21, accessed on 10/10/21-10/11/21, Link, “The 20 Best New TV Shows of 2020”, published on 12/30/20, accessed on 10/10/21-10/11/21, Link, “The 20 Best New TV Shows of 2019”, published on 12/29/19, accessed on 10/10/21-10/12/21, Link.
+
+Our task was to combine the main streaming services, using Ruchi Bhatia’s Netflix, Prime Video, Hulu and Disney+ as a baseline, we had 4 of the streaming services that we wished to investigate. But that represents an incomplete view of all of the streaming services available to the American viewers, so additional services had to be appended. But first, we needed to establish if there were items which we would need to remove from the base dataset, as we had arbitrarily decided that we would look at tv-shows rather than movies/films, those films would have to be filtered out. We did that by using the filter function of MongoDB and then exporting the results. 
+In retrospect, we should have included both films and shows, if we are looking at which service is most popular, but hindsight is relative and shows it was. From there, we needed to incorporate the remaining streaming services to get a complete picture. We were missing both Apple TV and HBO and so datasets for those were  found which meant that naming conventions had to be the same for a proper integration, our column typologies had to be the same, this doesn’t present a problem on show titles, but year release does specifically because Disney+ is included. They have the infamous ‘Disney Vault,’ in which shows and more often movies are arbitrarily taken off the market and then re-released, often  being touched up to HD quality and revisiting sound quality to something appropriate for our digital world. 
+So not only are shows being ‘released’ in 2019 that have technically already been released, in say the 90’s originally. The best example of this is The Soprano’s movie that just came out, and the ‘Friends’ follow-up show released in the last year, which drives up the desire to view the original Friends and Sopranos (those that were pre 2019) to higher viewer ratings relative to what they were . The opposite end of this is review bombing, one needs to look no further than the last season of Game of Thrones, which was objectively atrocious, but prior to the season airing was rated very highly on IMDb (our principal measure of rating). Which gets to an additional comment insofar that IMDb is am ‘8.8/10’, for example is relative to the time that the report on Kaggle or Statista was created, the IMDb and Rotten Tomatoes scores are not absolutes but relative. 
+This is where Sandra’s Metacritic report becomes key as an objective measure, because professional movie critics review shows either prior to when they release to the public at large or within the first week. So, for the vast majority of professional show reviewers, think the Guardian’s film reviewer, or Rolling Stones’ in-house critic, these shows are reviewed all within relatively the same time period and then are static from that point forward. And our intention is to use that as a base measure going forward, not only because it presents (a somewhat more objective) professional rather than (a perhaps more subjective) individual review found on IMDb and Rotten Tomatoes. 
+Finally, our dataset was missing the reviews of 2021, so my task was to web scrape an advanced search query that we ran on IMDb, the parameters of which were that it be a year prior to the pandemic, so 2019 was chosen to include in our query as the baseline to compare viewership pre-pandemic and post-pandemic. Again, in retrospect, we should have 2 or 3 years prior to get a better baseline to compare with the increased pandemic viewing. I was able to do this through an Advanced Search that specific TV and TV specials released and the time frame was 1/1/2019. 
+From there we appended our datasets in this order, ‘Disney+Prime+Hulu+Netflix’ + ‘HBO’ + “Apple’ + “the 2021” dates from IMDb. We added to this 6 boolean columns to this for each of the Streaming Services, though there were issues regarding this, specifically with Hulu and to some extent Netflix which have content that is original and created by another by one of the other streaming service providers, such as Disney and HBO which license out their shows for a service fee and certain period of time, which results in double values of a show, but dropping duplicates presents problems of its own. I ran a number of test queries on shows that I know are licensed out to Hulu from somewhere else, the best know of which are futurama and Its Always Sunny in Philadelphia, but I queried the full combined dataset and only returned one value for a few of the ones that I knew off hand so I think that we imported duplicate values.
+Our next steps are to combine with viewership values that I got for the top 4, we know that Netflix, HBO, Disney+ and Prime, relative to two measures, a year to date function to see how they were doing in the same quarter of the last year, and the previous quarter. We have the measures of the year of the show’s release, but we didn’t have quarters and that would be great to dive into the analysis on the quarterly reports that look at viewership. We would also  like to delve into the genre’s which are data that was dro[[ed but was available because I think it would add an interesting lens through which to view what kind of content these streaming companies pushed as the pandemic went on. That we found that Netflix in 2019 was making 13% drama’s pre pandemic(their highest genre_, to a switch to 15% comedie releases 2020-2021(the highest genre), is great and I think we can find more interesting tidbits
